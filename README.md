@@ -1,4 +1,4 @@
-# Spotlights
+# Spotlights! 🌟
 
 We feature a project or marimo notebook from the community every Thursday!
 
@@ -18,7 +18,7 @@ uvx marimo edit --sandbox notebook.py
 and marimo will automatically install its dependencies in an isolated
 virtual environment.
 
-## Spotlights
+## Spotlights 🌟
 
 1. [anywidget](001-anywidget/) is a Python library for making interoperable
    widgets; use anywidget to make custom UI elements for marimo.
