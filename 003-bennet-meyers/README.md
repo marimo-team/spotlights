@@ -1,5 +1,7 @@
 # Bennet Meyers: SLAC Staff Scientist
 
+_August 22, 2024_
+
 [Bennet Meyers](https://gismo.slac.stanford.edu/person/bennet-meyers) is a
 staff scientist at [SLAC](https://slac.stanford.edu), in the [GISMo
 lab](https://gismo.slac.stanford.edu/). He's been using marimo for over two
