@@ -23,7 +23,7 @@ uvx marimo edit --sandbox stem-probes.py
 if you have `uv` installed, or
 
 ```shell
-marimo run --sandbox 002-stem-probes\stem-probes.py
+marimo edit --sandbox 002-stem-probes/stem-probes.py
 ```
 
 if you don't have uv installed (you'll need to manually install its dependencies).
