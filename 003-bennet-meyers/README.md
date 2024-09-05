@@ -14,19 +14,23 @@ readers how to use signal decomposition without math. It was one a motivating
 example for many features that are now part of the marimo library. Check it out
 here: [https://signal-decomp-tutorial.org/](https://signal-decomp-tutorial.org/]).
 
+[![Open with marimo](https://marimo.io/shield.svg)](https://marimo.io/@public/signal-decomposition)
+
 You can also edit this notebook locally with
 
 ```shell
-uvx marimo edit --sandbox notebook.py
+uvx marimo run --sandbox notebook.py
 ```
 
 if you have `uv` installed, or
 
 ```shell
-marimo edit notebook.py
+marimo run notebook.py
 ```
 
 if you don't have uv installed (you'll need to manually install its dependencies).
+
+To edit the notebook source code, replace `run` with `edit` in the above commands.
 
 ## Spotlight Promotion
 
