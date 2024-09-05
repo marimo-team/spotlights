@@ -10,7 +10,6 @@ The example notebooks in this repo have their package dependencies inlined.
 If you have [`uv`](https://github.com/astral-sh/uv) installed, you can open a
 notebook with
 
-
 ```shell
 uvx marimo edit --sandbox notebook.py
 ```
