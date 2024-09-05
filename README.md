@@ -57,7 +57,7 @@ virtual environment.
     </td>
     <td>
       <a target="_blank" href="https://xdsl.dev/index">
-        <img src="https://github.com/marimo-team/marimo-spotlights/raw/main/004-xdsl/xdsl-demo.gif" style="max-height: 150px; width: auto; display: block" />
+        <img src="assets/004-xdsl.png" style="max-height: 150px; width: auto; display: block"/>
       </a>
     </td>
   </tr>
@@ -92,7 +92,7 @@ virtual environment.
       </a>
     </td>
     <td>
-      <a target="_blank" href="https://xdsl.dev/index">
+      <a target="_blank" href="https://marimo.io/@haleshot/notebook-3juvpw">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
