@@ -8,7 +8,36 @@ is a Python library that simplifies creating custom widgets that can be used in
 interactive programming environments. We strongly believe in anywidget's
 mission to provides a single interface for developing embeddable widgets inside
 other applications, such as Panel, Jupyter, and, of course, marimo.
+
+[![Open with marimo](https://marimo.io/shield.svg)](https://marimo.io/p/@anywidget/demo)
  
+You can also edit this notebook locally with
+
+```shell
+uvx marimo run --sandbox reactive_quak.py
+```
+
+or
+
+```shell
+uvx marimo run --sandbox tldraw_colorpicker.py
+```
+
+if you have `uv` installed, or
+
+```shell
+marimo run reactive_quak.py
+```
+
+or
+
+```shell
+marimo run tldraw_colorpicker.py
+```
+
+if you don't have uv installed (you'll need to manually install its dependencies).
+
+To edit the notebook source code, replace `run` with `edit` in the above commands.
 The anywidget community has built some really cool widgets, including
 [quak](https://github.com/manzt/quak), an interactive data table implemented
 that scales to millions of rows and code generates SQL based on UI
@@ -32,3 +61,22 @@ vanilla JavaScript or frameworks like React and Svelte.
  
 We’re excited to see the innovations that you’ll bring to marimo with
 anywidget. Happy building!
+
+## Community Spotlight
+
+This project is part of our [Community Spotlights](https://marimo.io/c/@haleshot/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
+
+We're thrilled to have Trevor Manz as an active and innovative member of the marimo community!
+
+> [!NOTE]
+> The current link to the Community Spotlights collection is temporary and will soon be moved to the official marimo-team workspace for improved visibility and structure.*
+
+## Spotlight Promotion
+
+This spotlight has been featured on our social media platforms. Join the conversation:
+
+- LinkedIn Post: [Link](https://www.linkedin.com/posts/marimo-io_anywidget-vega-react-activity-7228825246768791552-MBwW?utm_source=share&utm_medium=member_desktop)
+- Twitter Post: [Link](https://x.com/marimo_io/status/1819094841508483242)
+- Discord Discussion: [Discord message](https://discord.com/channels/1059888774789730424/1268639867898695761/1268642076078248177)
+
+We encourage you to engage with these posts, share your thoughts, and help us celebrate this amazing contribution to the Marimo community!

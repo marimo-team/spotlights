@@ -10,21 +10,25 @@ xDSL uses marimo to bring their documentation to life with interactive code exam
 
 You can explore xDSL's interactive documentation here: [https://xdsl.dev/index](https://xdsl.dev/index)
 
+[![Open with marimo](https://marimo.io/shield.svg)](https://marimo.io/@haleshot/notebook-3juvpw)
+
 ## Local Exploration
 
 To explore the xDSL examples locally, you can use the following commands:
 
 ```shell
-uvx marimo edit --sandbox xdsl.py
+uvx marimo run --sandbox xdsl.py
 ```
 
 if you have `uv` installed, or
 
 ```shell
-marimo edit xdsl.py
+marimo run xdsl.py
 ```
 
 if you don't have uv installed (you'll need to manually install its dependencies).
+
+To edit the notebook source code, replace `run` with `edit` in the above commands.
 
 ## Why xDSL Matters
 
@@ -33,3 +37,21 @@ xDSL's focus on making DSL development more accessible has significant implicati
 The project's integration with marimo for interactive documentation demonstrates the power of combining cutting-edge compiler technology with modern, interactive programming environments. This combination not only makes learning about xDSL more engaging but also showcases the potential of these tools working together in the broader ecosystem of scientific computing and high-performance applications.
 
 We're excited to see how the xDSL project continues to evolve and contribute to the advancement of exascale computing capabilities!
+
+## Community Spotlight
+
+This project is part of our [Community Spotlights](https://marimo.io/c/@haleshot/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
+
+We're thrilled to have xdsl as an active and innovative member of the marimo community!
+
+> [!NOTE]
+> The current link to the Community Spotlights collection is temporary and will soon be moved to the official marimo-team workspace for improved visibility and structure.*
+
+## Spotlight Promotion
+
+This spotlight has been featured on our social media platforms. Join the conversation:
+
+- Twitter Post: [Link](https://x.com/marimo_io/status/1829209846174105826)
+- Discord Discussion: [Discord message](https://discord.com/channels/1059888774789730424/1268639867898695761/1278770178259292251)
+
+We encourage you to engage with these posts, share your thoughts, and help us celebrate this amazing contribution to the Marimo community!

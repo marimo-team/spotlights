@@ -14,16 +14,39 @@ readers how to use signal decomposition without math. It was one a motivating
 example for many features that are now part of the marimo library. Check it out
 here: [https://signal-decomp-tutorial.org/](https://signal-decomp-tutorial.org/]).
 
+[![Open with marimo](https://marimo.io/shield.svg)](https://marimo.io/@public/signal-decomposition)
+
 You can also edit this notebook locally with
 
 ```shell
-uvx marimo edit --sandbox notebook.py
+uvx marimo run --sandbox notebook.py
 ```
 
 if you have `uv` installed, or
 
 ```shell
-marimo edit notebook.py
+marimo run notebook.py
 ```
 
 if you don't have uv installed (you'll need to manually install its dependencies).
+
+To edit the notebook source code, replace `run` with `edit` in the above commands.
+
+## Community Spotlight
+
+This project is part of our [Community Spotlights](https://marimo.io/c/@haleshot/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
+
+We're thrilled to have Bennet Meyers as an active and innovative member of the marimo community!
+
+> [!NOTE]
+> The current link to the Community Spotlights collection is temporary and will soon be moved to the official marimo-team workspace for improved visibility and structure.*
+
+## Spotlight Promotion
+
+This spotlight has been featured on our social media platforms. Join the conversation:
+
+- LinkedIn Post: [Link](https://www.linkedin.com/posts/marimo-io_its-thursday-and-that-means-its-time-activity-7232518819422842881-DG4k?utm_source=share&utm_medium=member_desktop)
+- Twitter Post: [Link](https://x.com/marimo_io/status/1826731440987668501)
+- Discord Discussion: [Discord message](https://discord.com/channels/1059888774789730424/1268639867898695761/1276291256821088410)
+
+We encourage you to engage with these posts, share your thoughts, and help us celebrate this amazing contribution to the Marimo community!

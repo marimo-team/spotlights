@@ -35,3 +35,14 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 Georgios' work is part of our [Community Spotlights](https://marimo.io/c/@haleshot/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
 
 We're thrilled to have Georgios as an active and innovative member of the marimo community. His contributions demonstrate the potential of marimo for creating engaging, interactive scientific content that can run directly in web browsers.
+> [!NOTE]
+> The current link to the Community Spotlights collection is temporary and will soon be moved to the official marimo-team workspace for improved visibility and structure.*
+
+## Spotlight Promotion
+
+This spotlight has been featured on our social media platforms. Join the conversation:
+
+- Twitter Post: [Link](https://x.com/marimo_io/status/1824130227238527005)
+- Discord Discussion: [Discord message](https://discord.com/channels/1059888774789730424/1268639867898695761/1273692028177481829)
+
+We encourage you to engage with these posts, share your thoughts, and help us celebrate this amazing contribution to the Marimo community!
