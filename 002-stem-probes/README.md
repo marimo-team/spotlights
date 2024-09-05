@@ -1,6 +1,6 @@
 # Georgios Varnavides: UC Berkeley Postdoctoral Miller Research Fellow
 
-_September 5, 2024_
+_August 15, 2024_
 
 [Georgios Varnavides](https://georgiosvarnavides.com/) is a postdoctoral Miller research fellow at UC Berkeley, where he works on material science. He's a marimo power user who cares deeply about digital science communication. 👨‍🔬🎙️
 
@@ -17,13 +17,13 @@ Georgios has taken his work a step further by finding a way to combine Observabl
 You can explore Georgios' notebook locally with:
 
 ```shell
-uvx marimo edit --sandbox notebook.py
+uvx marimo edit --sandbox stem-probes.py
 ```
 
 if you have `uv` installed, or
 
 ```shell
-marimo edit notebook.py
+marimo run --sandbox 002-stem-probes\stem-probes.py
 ```
 
 if you don't have uv installed (you'll need to manually install its dependencies).
@@ -33,5 +33,3 @@ if you don't have uv installed (you'll need to manually install its dependencies
 Georgios' work is part of our [Community Spotlights](https://marimo.io/c/@haleshot/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
 
 We're thrilled to have Georgios as an active and innovative member of the marimo community. His contributions demonstrate the potential of marimo for creating engaging, interactive scientific content that can run directly in web browsers.
-
-Thank you, Georgios, for being such an amazing member of the marimo community! 🙏
