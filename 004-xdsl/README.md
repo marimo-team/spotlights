@@ -10,21 +10,25 @@ xDSL uses marimo to bring their documentation to life with interactive code exam
 
 You can explore xDSL's interactive documentation here: [https://xdsl.dev/index](https://xdsl.dev/index)
 
+[![Open with marimo](https://marimo.io/shield.svg)](https://marimo.io/@haleshot/notebook-3juvpw)
+
 ## Local Exploration
 
 To explore the xDSL examples locally, you can use the following commands:
 
 ```shell
-uvx marimo edit --sandbox xdsl.py
+uvx marimo run --sandbox xdsl.py
 ```
 
 if you have `uv` installed, or
 
 ```shell
-marimo edit xdsl.py
+marimo run xdsl.py
 ```
 
 if you don't have uv installed (you'll need to manually install its dependencies).
+
+To edit the notebook source code, replace `run` with `edit` in the above commands.
 
 ## Why xDSL Matters
 
