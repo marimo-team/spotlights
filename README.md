@@ -55,6 +55,11 @@ virtual environment.
         <img src="assets/003-bennet-meyers.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
+    <td>
+      <a target="_blank" href="https://xdsl.dev/index">
+        <img src="https://github.com/marimo-team/marimo-spotlights/raw/main/004-xdsl/xdsl-demo.gif" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -65,6 +70,9 @@ virtual environment.
     </td>
     <td>
       <a href="003-bennet-meyers/">Bennet Meyers</a>
+    </td>
+    <td>
+      <a href="004-xdsl/">xDSL</a>
     </td>
   </tr>
   <tr>
@@ -83,6 +91,11 @@ virtual environment.
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
+    <td>
+      <a target="_blank" href="https://xdsl.dev/index">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -93,3 +106,4 @@ virtual environment.
    at SLAC who has been a supporter of marimo since day one; he made and
    deployed the first ever marimo notebook, an interactive tutorial
    that teaches how to use signal decomposition.
+4. [xDSL](004-xdsl/) xDSL is a Python-native compiler toolkit that lowers the barrier to entry for developing DSLs. It's closely connected to the MLIR/LLVM projects and aims to enable exascale computing. xDSL uses marimo to create interactive documentation with embedded playground notebooks.
