@@ -14,19 +14,21 @@ Georgios has taken his work a step further by finding a way to combine Observabl
 
 ## Local Exploration
 
-You can explore Georgios' notebook locally with:
+Run Georgios' notebook as an app with:
 
 ```shell
-uvx marimo edit --sandbox stem-probes.py
+uvx marimo run --sandbox stem-probes.py
 ```
 
 if you have `uv` installed, or
 
 ```shell
-marimo edit --sandbox 002-stem-probes/stem-probes.py
+marimo run --sandbox 002-stem-probes/stem-probes.py
 ```
 
 if you don't have uv installed (you'll need to manually install its dependencies).
+
+To edit the notebook source code, replace `run` with `edit` in the above commands.
 
 ## Community Spotlight
 
