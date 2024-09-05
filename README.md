@@ -92,6 +92,13 @@ To edit the notebook source code, replace `run` with `edit` in the above command
    that teaches how to use signal decomposition.
 4. [xDSL](004-xdsl/) xDSL is a Python-native compiler toolkit that lowers the barrier to entry for developing DSLs. It's closely connected to the MLIR/LLVM projects and aims to enable exascale computing. xDSL uses marimo to create interactive documentation with embedded playground notebooks.
 
+## Community Spotlights Collection
+
+All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@haleshot/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
+
+> [!NOTE]
+> The current link is temporary and will soon be moved to the official marimo-team workspace for improved visibility and structure.*
+
 ## Promoting Spotlights
 
 We love to share our community spotlights across various platforms! You can find these promotions and join the conversation on:
