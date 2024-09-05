@@ -27,3 +27,13 @@ marimo edit notebook.py
 ```
 
 if you don't have uv installed (you'll need to manually install its dependencies).
+
+## Spotlight Promotion
+
+This spotlight has been featured on our social media platforms. Join the conversation:
+
+- LinkedIn Post: [Link](https://www.linkedin.com/posts/marimo-io_its-thursday-and-that-means-its-time-activity-7232518819422842881-DG4k?utm_source=share&utm_medium=member_desktop)
+- Twitter Post: [Link](https://x.com/marimo_io/status/1826731440987668501)
+- Discord Discussion: [Discord message](https://discord.com/channels/1059888774789730424/1268639867898695761/1276291256821088410)
+
+We encourage you to engage with these posts, share your thoughts, and help us celebrate this amazing contribution to the Marimo community!
