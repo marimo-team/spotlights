@@ -103,8 +103,8 @@ All of our spotlights are part of the [Community Spotlights](https://marimo.io/c
 
 We love to share our community spotlights across various platforms! You can find these promotions and join the conversation on:
 
-- LinkedIn: [Marimo LinkedIn](https://www.linkedin.com/company/marimo-io/)
+- LinkedIn: [marimo LinkedIn](https://www.linkedin.com/company/marimo-io/)
 - Twitter: [@marimo_io](https://x.com/marimo_io)
-- Discord: [Marimo Community](https://discord.gg/JE7nhX6mD8)
+- Discord: [marimo community](https://discord.gg/JE7nhX6mD8)
 
 Feel free to like, share, and comment on these posts to help spread the word about these amazing projects and contributors!
