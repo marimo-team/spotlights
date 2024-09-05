@@ -11,11 +11,14 @@ If you have [`uv`](https://github.com/astral-sh/uv) installed, you can open a
 notebook with
 
 ```shell
-uvx marimo edit --sandbox notebook.py
+uvx marimo run --sandbox notebook.py
 ```
 
 and marimo will automatically install its dependencies in an isolated
 virtual environment.
+
+To edit the notebook source code, replace `run` with `edit` in the above commands.
+
 
 ## Examples
 
