@@ -11,6 +11,33 @@ other applications, such as Panel, Jupyter, and, of course, marimo.
 
 [![Open with marimo](https://marimo.io/shield.svg)](https://marimo.io/p/@anywidget/demo)
  
+You can also edit this notebook locally with
+
+```shell
+uvx marimo run --sandbox reactive_quak.py
+```
+
+or
+
+```shell
+uvx marimo run --sandbox tldraw_colorpicker.py
+```
+
+if you have `uv` installed, or
+
+```shell
+marimo run reactive_quak.py
+```
+
+or
+
+```shell
+marimo run tldraw_colorpicker.py
+```
+
+if you don't have uv installed (you'll need to manually install its dependencies).
+
+To edit the notebook source code, replace `run` with `edit` in the above commands.
 The anywidget community has built some really cool widgets, including
 [quak](https://github.com/manzt/quak), an interactive data table implemented
 that scales to millions of rows and code generates SQL based on UI
