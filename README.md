@@ -2,7 +2,7 @@
 
 We feature a project or marimo notebook from the community every Thursday!
 
-Have a project that you'd like us to spotlight? Feel free to open an issue.
+Have a project that you'd like us to spotlight? Feel free to open an [issue](https://github.com/marimo-team/spotlights/issues).
 
 ## Running example notebooks
 
@@ -17,11 +17,6 @@ uvx marimo edit --sandbox notebook.py
 and marimo will automatically install its dependencies in an isolated
 virtual environment.
 
-## Spotlights! 🌟
-
-We feature a project or marimo notebook from the community every Thursday!
-
-Have a project that you'd like us to spotlight? Feel free to open an [issue](https://github.com/marimo-team/spotlights/issues).
 
 ## Running example notebooks
 
