@@ -32,3 +32,13 @@ vanilla JavaScript or frameworks like React and Svelte.
  
 We’re excited to see the innovations that you’ll bring to marimo with
 anywidget. Happy building!
+
+## Spotlight Promotion
+
+This spotlight has been featured on our social media platforms. Join the conversation:
+
+- LinkedIn Post: [Link](https://www.linkedin.com/posts/marimo-io_anywidget-vega-react-activity-7228825246768791552-MBwW?utm_source=share&utm_medium=member_desktop)
+- Twitter Post: [Link](https://x.com/marimo_io/status/1819094841508483242)
+- Discord Discussion: [Discord message](https://discord.com/channels/1059888774789730424/1268639867898695761/1268642076078248177)
+
+We encourage you to engage with these posts, share your thoughts, and help us celebrate this amazing contribution to the Marimo community!
