@@ -33,3 +33,12 @@ xDSL's focus on making DSL development more accessible has significant implicati
 The project's integration with marimo for interactive documentation demonstrates the power of combining cutting-edge compiler technology with modern, interactive programming environments. This combination not only makes learning about xDSL more engaging but also showcases the potential of these tools working together in the broader ecosystem of scientific computing and high-performance applications.
 
 We're excited to see how the xDSL project continues to evolve and contribute to the advancement of exascale computing capabilities!
+
+## Spotlight Promotion
+
+This spotlight has been featured on our social media platforms. Join the conversation:
+
+- Twitter Post: [Link](https://x.com/marimo_io/status/1829209846174105826)
+- Discord Discussion: [Discord message](https://discord.com/channels/1059888774789730424/1268639867898695761/1278770178259292251)
+
+We encourage you to engage with these posts, share your thoughts, and help us celebrate this amazing contribution to the Marimo community!
