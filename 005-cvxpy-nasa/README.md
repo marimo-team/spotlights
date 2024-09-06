@@ -16,13 +16,13 @@ The CVXPY team used marimo's interactive capabilities to create engaging and han
 To explore the CVXPY NASA course notebooks locally, you can use the following commands:
 
 ```shell
-uvx marimo run --sandbox notebook.py
+uvx marimo run --sandbox <notebook-name>.py
 ```
 
 if you have `uv` installed, or
 
 ```shell
-marimo run notebook.py
+marimo run <notebook-name>.py
 ```
 
 if you don't have uv installed (you'll need to manually install its dependencies).
