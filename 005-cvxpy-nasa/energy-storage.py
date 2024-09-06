@@ -1,6 +1,16 @@
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "matplotlib",
+#     "numpy",
+#     "cvxpy",
+#     "marimo",
+# ]
+# ///
+
 import marimo
 
-__generated_with = "0.7.13"
+__generated_with = "0.8.11"
 app = marimo.App()
 
 
