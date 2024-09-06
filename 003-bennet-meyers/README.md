@@ -34,12 +34,9 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 ## Community Spotlight
 
-This project is part of our [Community Spotlights](https://marimo.io/c/@haleshot/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
+This project is part of our [Community Spotlights](005-cvxpy-nasa\aircraft-design.py) collection, where we feature outstanding projects and contributions from the marimo community.
 
 We're thrilled to have Bennet Meyers as an active and innovative member of the marimo community!
-
-> [!NOTE]
-> The current link to the Community Spotlights collection is temporary and will soon be moved to the official marimo-team workspace for improved visibility and structure.*
 
 ## Spotlight Promotion
 

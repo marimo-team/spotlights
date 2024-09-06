@@ -32,11 +32,9 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 ## Community Spotlight
 
-Georgios' work is part of our [Community Spotlights](https://marimo.io/c/@haleshot/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
+Georgios' work is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
 
 We're thrilled to have Georgios as an active and innovative member of the marimo community. His contributions demonstrate the potential of marimo for creating engaging, interactive scientific content that can run directly in web browsers.
-> [!NOTE]
-> The current link to the Community Spotlights collection is temporary and will soon be moved to the official marimo-team workspace for improved visibility and structure.*
 
 ## Spotlight Promotion
 
