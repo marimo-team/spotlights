@@ -94,7 +94,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
   </tr>
   <tr>
     <td>
-      <a href="005-nasa-cvxpy/">NASA CVXPY</a>
+      <a href="005-cvxpy-nasa/">NASA CVXPY</a>
     </td>
   </tr>
   <tr>
