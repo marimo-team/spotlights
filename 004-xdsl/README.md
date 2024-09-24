@@ -10,7 +10,7 @@ xDSL uses marimo to bring their documentation to life with interactive code exam
 
 You can explore xDSL's interactive documentation here: [https://xdsl.dev/index](https://xdsl.dev/index)
 
-[![Open with marimo](https://marimo.io/shield.svg)](https://marimo.io/@haleshot/notebook-3juvpw)
+[![Open with marimo](https://marimo.io/shield.svg)](https://marimo.io/p/@spotlights/004-xdsl)
 
 ## Local Exploration
 
