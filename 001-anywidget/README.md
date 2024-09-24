@@ -8,8 +8,6 @@ is a Python library that simplifies creating custom widgets that can be used in
 interactive programming environments. We strongly believe in anywidget's
 mission to provides a single interface for developing embeddable widgets inside
 other applications, such as Panel, Jupyter, and, of course, marimo.
-
-[![Open with marimo](https://marimo.io/shield.svg)](https://marimo.io/p/@anywidget/demo)
  
 You can also edit this notebook locally with
 
