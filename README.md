@@ -61,7 +61,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
   </tr>
   <tr>
     <td>
-      <a target="_blank" href="https://marimo.io/p/@anywidget/demo">
+      <a target="_blank" href="https://marimo.io/p/@spotlights/001-anywidgets-trevor-manz">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
@@ -76,7 +76,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
       </a>
     </td>
     <td>
-      <a target="_blank" href="https://marimo.io/@haleshot/notebook-3juvpw">
+      <a target="_blank" href="https://marimo.io/p/@spotlights/004-xdsl">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
