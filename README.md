@@ -14,8 +14,8 @@ notebook with
 uvx marimo run --sandbox notebook.py
 ```
 
-and marimo will automatically install its dependencies in an isolated
-virtual environment.
+and marimo will automatically install its dependencies in an [isolated
+virtual environment](https://marimo.io/blog/sandboxed-notebooks).
 
 To edit the notebook source code, replace `run` with `edit` in the above commands.
 
