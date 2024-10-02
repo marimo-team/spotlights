@@ -14,8 +14,8 @@ notebook with
 uvx marimo run --sandbox notebook.py
 ```
 
-and marimo will automatically install its dependencies in an isolated
-virtual environment.
+and marimo will automatically install its dependencies in an [isolated
+virtual environment](https://marimo.io/blog/sandboxed-notebooks).
 
 To edit the notebook source code, replace `run` with `edit` in the above commands.
 
@@ -96,6 +96,11 @@ To edit the notebook source code, replace `run` with `edit` in the above command
         <img src="./assets/006-vrtnis.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
+    <td>
+      <a target="_blank" href="https://github.com/Haleshot/Goodreads-Dataset-EDA">
+        <img src="./assets/007-haleshot.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -103,6 +108,9 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     </td>
     <td>
       <a href="006-vrtnis/">vrtnis</a>
+    </td>
+    <td>
+      <a href="007-haleshot/">Haleshot</a>
     </td>
   </tr>
   <tr>
@@ -113,6 +121,11 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     </td>
     <td>
       <a target="_blank" href="https://marimo.io/p/@spotlights/006-vrtnis">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://marimo.io/p/@haleshot/goodreads-dataset-eda">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
@@ -129,6 +142,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 4. [xDSL](004-xdsl/) xDSL is a Python-native compiler toolkit that lowers the barrier to entry for developing DSLs. It's closely connected to the MLIR/LLVM projects and aims to enable exascale computing. xDSL uses marimo to create interactive documentation with embedded playground notebooks.
 5. [NASA CVXPY](005-nasa-cvxpy/) The CVXPY team taught a course on convex optimization to scientists at NASA, powered by marimo notebooks. From designing aircraft to landing rockets, marimo brought their lessons to life.
 6. [vrtnis](006-vrtnis/) vrtnis is a prolific contributor to the marimo community, creating numerous interactive notebooks including a k-d tree visualizer, an LMSYS win rate predictor, and even Pong! They also developed the AI docs bot for the marimo community and created a comprehensive marimo cheatsheet.
+7. [Haleshot](007-haleshot/) Haleshot is an aspiring AI/ML engineer and a python enthusiast: pursuing a B.Tech in AI and an open-source enthusiast. As a key contributor and newly appointed marimo ambassador, he plays a vital role in the marimo community. Haleshot has created various notebooks, including a Goodreads Dataset EDA, and leads the marimo spotlight repository.
 
 ## Community Spotlights Collection
 
