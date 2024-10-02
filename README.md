@@ -84,6 +84,8 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 </table>
 
 ### September 2024
+
+### September 2024
 <table border="0">
   <tr>
     <td>
@@ -101,6 +103,11 @@ To edit the notebook source code, replace `run` with `edit` in the above command
         <img src="./assets/007-haleshot.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
+    <td>
+      <a target="_blank" href="https://github.com/Haleshot/marimo-tutorials">
+        <img src="./assets/008-marimo-tutorials.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -111,6 +118,9 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     </td>
     <td>
       <a href="007-haleshot/">Haleshot</a>
+    </td>
+    <td>
+      <a href="008-marimo-tutorials/">marimo-tutorials</a>
     </td>
   </tr>
   <tr>
@@ -126,6 +136,11 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     </td>
     <td>
       <a target="_blank" href="https://marimo.io/p/@haleshot/goodreads-dataset-eda">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://marimo.io/c/@haleshot/marimo-tutorials">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
