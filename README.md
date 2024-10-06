@@ -22,6 +22,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 ## Examples
 
 ### August 2024
+
 <table border="0">
   <tr>
     <td>
@@ -85,7 +86,6 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 ### September 2024
 
-### September 2024
 <table border="0">
   <tr>
     <td>
@@ -158,6 +158,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 5. [NASA CVXPY](005-nasa-cvxpy/) The CVXPY team taught a course on convex optimization to scientists at NASA, powered by marimo notebooks. From designing aircraft to landing rockets, marimo brought their lessons to life.
 6. [vrtnis](006-vrtnis/) vrtnis is a prolific contributor to the marimo community, creating numerous interactive notebooks including a k-d tree visualizer, an LMSYS win rate predictor, and even Pong! They also developed the AI docs bot for the marimo community and created a comprehensive marimo cheatsheet.
 7. [Haleshot](007-haleshot/) Haleshot is an aspiring AI/ML engineer and a python enthusiast: pursuing a B.Tech in AI and an open-source enthusiast. As a key contributor and newly appointed marimo ambassador, he plays a vital role in the marimo community. Haleshot has created various notebooks, including a Goodreads Dataset EDA, and leads the marimo spotlight repository.
+8. [marimo-tutorials](008-marimo-tutorials/) The marimo-tutorials project, led by eugene and Haleshot, is a community-driven initiative to create interactive tutorials using marimo notebooks. Covering diverse topics from data science to programming concepts, this growing repository showcases the power of collaborative learning and the versatility of marimo.
 
 ## Community Spotlights Collection
 
