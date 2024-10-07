@@ -43,9 +43,8 @@ To edit the tutorial source code, replace `run` with `edit` in the above command
 
 The marimo-tutorials project welcomes contributions from the community. If you have an idea for a tutorial or want to improve an existing one, please check the [contribution guidelines](https://github.com/Haleshot/marimo-tutorials/blob/main/CONTRIBUTING.md) in the repository.
 
-## Community Spotlight
-
-This project is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature projects and contributions from the marimo community.
+> [!NOTE]
+> This project is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
 
 We're thrilled to have eugene and Haleshot leading this initiative and can't wait to see how the marimo-tutorials project grows and evolves!
 
