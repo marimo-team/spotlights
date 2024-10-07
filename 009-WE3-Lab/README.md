@@ -26,7 +26,7 @@ Note: You may need to manually install the notebook's dependencies if you're not
 
 To edit the notebook source code, replace `run` with `edit` in the above commands.
 
->[!NOTE]
+> [!NOTE]
 > This project is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
 
 We're excited to showcase the innovative work of the Stanford WE3 Lab team and their contribution to understanding energy flexibility in water systems!
