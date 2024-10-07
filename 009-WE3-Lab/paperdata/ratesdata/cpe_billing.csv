@@ -1,0 +1,4 @@
+﻿utility,type,period,basic_charge_limit (imperial),basic_charge_limit (metric),month_start,month_end,hour_start,hour_end,weekday_start,weekday_end,charge (imperial),charge (metric),units,Notes
+electric,customer,,,,,,,,,,289.29,289.29,$/month,CenterPoint Energy Primary Service (2021 rates)
+electric,energy,,0,0,1,12,0,24,0,6,0.03822,0.03822,$/kWh,Assumed 2-50 kV (primary voltage)
+electric,demand,maximum,0,0,1,12,0,24,0,6,2.33454,2.33454,$/kW,"Includes distribution, transmission, and generation charges"

@@ -1,0 +1,44 @@
+{
+    "casename": "santabarbara",
+    "system_type": "WWT",
+    "daily_rtes": [
+        0.9740021578226029,
+        0.834322026374265,
+        0.999212
+    ],
+    "daily_ed": [
+        37273.18780424843,
+        62346.05573582204,
+        66970.02441258646
+    ],
+    "daily_ed_normalized": [
+        0.04128754052939652,
+        0.07051645496876327,
+        0.07512410424075344
+    ],
+    "daily_p": [
+        101.53395562842066,
+        184.2374524260952,
+        183.5849896526695
+    ],
+    "daily_p_normalized": [
+        0.06867671020404804,
+        0.12917966568542455,
+        0.11663595276535546
+    ],
+    "daily_benefit": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "daily_baseline_electricity_cost": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "annualized_rte": 0.9565000001466256,
+    "annualized_discharge_capacity": 7996284.861727532,
+    "annualized_power_capacity": 149.80504564580264,
+    "annualized_reference_cost": 1000000,
+    "annualized_benefit": 103893.7574111426
+}
