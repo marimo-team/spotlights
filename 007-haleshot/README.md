@@ -22,9 +22,8 @@ Haleshot is a core contributor of the [marimo-tutorials](https://github.com/Hale
 
 We encourage you to check out the [repository]((https://github.com/Haleshot/marimo-tutorials)) and show your appreciation by giving it a ⭐!
 
-## Community Spotlight
-
-This project is part of our [Community Spotlights](https://marimo.io/c/@haleshot/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
+> [!NOTE]
+> This project is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
 
 We're thrilled to have Haleshot as an active and innovative member of the marimo community!
 
