@@ -13,7 +13,7 @@ You can explore the interactive notebook here: [![Open with marimo](https://mari
 To run this notebook locally, use the following command if you have `uv` installed:
 
 ```shell
-uvx marimo run --sandbox notebook.py
+uvx marimo run --sandbox marimonotebook/lvof.py
 ```
 
 If you don't have `uv` installed, you can use:
