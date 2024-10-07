@@ -1,0 +1,59 @@
+﻿utility,type,period,basic_charge_limit (imperial),basic_charge_limit (metric),month_start,month_end,hour_start,hour_end,weekday_start,weekday_end,charge (imperial),charge (metric),units,Notes
+gas,energy,,0,0,1,12,0,24,0,6,250,88.28681,$/therm or $/m3,Consolidated Edison Service Class 9: Rate II - General - Large - Time-of-Day (2021 rates)
+gas,energy,,10,28.3168,1,12,0,24,0,6,0.2632,0.09295,$/therm or $/m3,Assumed 2-50 kV (primary voltage)
+electric,customer,,,,,,,,,,143.09,143.09,$/month,"Includes distribution, transmission, and generation charges"
+electric,demand,winter-peak1,0,0,1,5,8,22,0,4,13.96,13.96,$/kW,
+electric,demand,winter-all-hours1,0,0,1,5,0,24,0,6,4.21,4.21,$/kW,
+electric,demand,summer-peak,0,0,6,9,8,22,0,4,18.44,18.44,$/kW,
+electric,demand,summer-super-peak,0,0,6,9,8,18,0,4,9.15,9.15,$/kW,
+electric,demand,summer-all-hours,0,0,6,9,0,24,0,6,16.66,16.66,$/kW,
+electric,demand,winter-peak2,0,0,10,12,8,22,0,4,13.96,13.96,$/kW,
+electric,demand,winter-all-hours2,0,0,10,12,0,24,0,6,4.21,4.21,$/kW,
+electric,energy,,0,0,1,1,0,8,0,4,0.0446782,0.0446782,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,1,1,22,24,0,4,0.0446782,0.0446782,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,1,1,8,22,0,4,0.044253925,0.044253925,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,1,1,0,24,5,6,0.0446782,0.0446782,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,2,2,0,8,0,4,0.0559765,0.0559765,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,2,2,22,24,0,4,0.0559765,0.0559765,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,2,2,8,22,0,4,0.072680387,0.072680387,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,2,2,0,24,5,6,0.0559765,0.0559765,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,3,3,0,8,0,4,0.034728354,0.034728354,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,3,3,22,24,0,4,0.034728354,0.034728354,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,3,3,8,22,0,4,0.037298506,0.037298506,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,3,3,0,24,5,6,0.034728354,0.034728354,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,4,4,0,8,0,4,0.02936025,0.02936025,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,4,4,22,24,0,4,0.02936025,0.02936025,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,4,4,8,22,0,4,0.0324525,0.0324525,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,4,4,0,24,5,6,0.02936025,0.02936025,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,5,5,0,8,0,4,0.0289717,0.0289717,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,5,5,22,24,0,4,0.0289717,0.0289717,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,5,5,8,22,0,4,0.034007312,0.034007312,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,5,5,0,24,5,6,0.0289717,0.0289717,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,6,6,0,8,0,4,0.03385825,0.03385825,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,6,6,22,24,0,4,0.03385825,0.03385825,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,6,6,8,22,0,4,0.042739333,0.042739333,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,6,6,0,24,5,6,0.03385825,0.03385825,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,7,7,0,8,0,4,0.037473333,0.037473333,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,7,7,22,24,0,4,0.037473333,0.037473333,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,7,7,8,22,0,4,0.049901949,0.049901949,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,7,7,0,24,5,6,0.037473333,0.037473333,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,8,8,0,8,0,4,0.041839333,0.041839333,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,8,8,22,24,0,4,0.041839333,0.041839333,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,8,8,8,22,0,4,0.054796116,0.054796116,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,8,8,0,24,5,6,0.041839333,0.041839333,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,9,9,0,8,0,4,0.045309375,0.045309375,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,9,9,22,24,0,4,0.045309375,0.045309375,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,9,9,8,22,0,4,0.056307944,0.056307944,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,9,9,0,24,5,6,0.045309375,0.045309375,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,10,10,0,8,0,4,0.0512568,0.0512568,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,10,10,22,24,0,4,0.0512568,0.0512568,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,10,10,8,22,0,4,0.062368078,0.062368078,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,10,10,0,24,5,6,0.0512568,0.0512568,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,11,11,0,8,0,4,0.057463827,0.057463827,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,11,11,22,24,0,4,0.057463827,0.057463827,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,11,11,8,22,0,4,0.06500276,0.06500276,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,11,11,0,24,5,6,0.057463827,0.057463827,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,12,12,0,8,0,4,0.0449075,0.0449075,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,12,12,22,24,0,4,0.0449075,0.0449075,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,12,12,8,22,0,4,0.055188172,0.055188172,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
+electric,energy,,0,0,12,12,0,24,5,6,0.0449075,0.0449075,$/kWh,Monthly average of LMP price plus base charge of $0.0079 / kWh
