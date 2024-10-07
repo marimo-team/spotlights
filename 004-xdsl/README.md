@@ -38,9 +38,8 @@ The project's integration with marimo for interactive documentation demonstrates
 
 We're excited to see how the xDSL project continues to evolve and contribute to the advancement of exascale computing capabilities!
 
-## Community Spotlight
-
-This project is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
+> [!NOTE]
+> This project is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
 
 We're thrilled to have xdsl as an active and innovative member of the marimo community!
 
