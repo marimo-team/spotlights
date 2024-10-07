@@ -36,9 +36,8 @@ Note: You may need to manually install dependencies if not using `uv`.
 
 To edit the notebook source code, replace `run` with `edit` in the above commands.
 
-## Community Spotlight
-
-This project is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
+> [!NOTE]
+> This project is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
 
 We're excited to have vrtnis as an active and innovative member of the marimo community, consistently pushing the boundaries of what's possible with marimo!
 
