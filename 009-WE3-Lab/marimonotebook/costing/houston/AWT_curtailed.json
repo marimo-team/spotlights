@@ -1,0 +1,30 @@
+{
+    "casename": "houston",
+    "system_type": "AWT_curtailed",
+    "daily_rtes": [
+        -0.05
+    ],
+    "daily_ed": [
+        7502.99944575324
+    ],
+    "daily_ed_normalized": [
+        0.17925542302626452
+    ],
+    "daily_p": [
+        333.4228719897978
+    ],
+    "daily_p_normalized": [
+        0.19118068734175592
+    ],
+    "daily_benefit": [
+        -89706.40064899379
+    ],
+    "daily_baseline_electricity_cost": [
+        631848.7655849408
+    ],
+    "annualized_rte": -0.05,
+    "annualized_discharge_capacity": 2738594.7976999325,
+    "annualized_power_capacity": 333.4228719897978,
+    "annualized_reference_cost": 1000000,
+    "annualized_benefit": -89706.40064899379
+}
