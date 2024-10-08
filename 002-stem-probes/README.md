@@ -30,9 +30,8 @@ if you don't have uv installed (you'll need to manually install its dependencies
 
 To edit the notebook source code, replace `run` with `edit` in the above commands.
 
-## Community Spotlight
-
-Georgios' work is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
+> [!NOTE]
+> Georgios' work is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
 
 We're thrilled to have Georgios as an active and innovative member of the marimo community. His contributions demonstrate the potential of marimo for creating engaging, interactive scientific content that can run directly in web browsers.
 

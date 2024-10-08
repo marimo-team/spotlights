@@ -60,9 +60,8 @@ vanilla JavaScript or frameworks like React and Svelte.
 We’re excited to see the innovations that you’ll bring to marimo with
 anywidget. Happy building!
 
-## Community Spotlight
-
-This project is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
+> [!NOTE]
+> This project is part of our [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we feature outstanding projects and contributions from the marimo community.
 
 We're thrilled to have Trevor Manz as an active and innovative member of the marimo community!
 
