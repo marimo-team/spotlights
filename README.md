@@ -21,25 +21,27 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 ## Examples
 
-### August 2024
+<details>
+<summary><h3>August 2024</h3></summary>
+
 <table border="0">
   <tr>
-    <td>
+    <td width="25%">
       <a target="_blank" href="https://x.com/trevmanz/status/1818664678609858802">
         <img src="assets/001-anywidget.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td>
+    <td width="25%">
       <a target="_blank" href="https://marimo.io/p/@gvarnavides/stem-probes">
         <img src="assets/002-stem-probes.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td>
+    <td width="25%">
       <a target="_blank" href="https://signal-decomp-tutorial.org/">
         <img src="assets/003-bennet-meyers.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td>
+    <td width="25%">
       <a target="_blank" href="https://xdsl.dev/index">
         <img src="assets/004-xdsl.png" style="max-height: 150px; width: auto; display: block"/>
       </a>
@@ -83,25 +85,29 @@ To edit the notebook source code, replace `run` with `edit` in the above command
   </tr>
 </table>
 
-### September 2024
+</details>
+
+<details>
+<summary><h3>September 2024</h3></summary>
+
 <table border="0">
   <tr>
-    <td>
+    <td width="25%">
       <a target="_blank" href="https://cvxgrp.org/nasa/">
         <img src="./assets/005-cvxpy-nasa.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td>
+    <td width="25%">
       <a target="_blank" href="https://github.com/vrtnis/marimo-cheat-sheet">
         <img src="./assets/006-vrtnis.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td>
+    <td width="25%">
       <a target="_blank" href="https://github.com/Haleshot/Goodreads-Dataset-EDA">
         <img src="./assets/007-haleshot.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td>
+    <td width="25%">
       <a target="_blank" href="https://github.com/Haleshot/marimo-tutorials">
         <img src="./assets/008-marimo-tutorials.png" style="max-height: 150px; width: auto; display: block" />
       </a>
@@ -145,12 +151,19 @@ To edit the notebook source code, replace `run` with `edit` in the above command
   </tr>
 </table>
 
+</details>
+
 ### October 2024
 <table border="0">
   <tr>
-    <td>
+    <td width="50%">
       <a target="_blank" href="https://lvof.we3lab.tech/">
         <img src="./assets/009-WE3-Lab.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="50%">
+      <a target="_blank" href="https://marimo.io/p/@muhammad-mustjaab/analysis-of-wait-times-in-canadian-hospitals-critical-procedures">
+        <img src="./assets/010-Mustjaab.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
   </tr>
@@ -158,10 +171,18 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     <td>
       <a href="009-water-systems/">Stanford WE3 Lab</a>
     </td>
+    <td>
+      <a href="010-Mustjaab/">Mustjaab</a>
+    </td>
   </tr>
   <tr>
     <td>
       <a target="_blank" href="https://lvof.we3lab.tech/">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://marimo.io/p/@muhammad-mustjaab/analysis-of-wait-times-in-canadian-hospitals-critical-procedures">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
@@ -181,6 +202,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 7. [Haleshot](007-haleshot/) Haleshot is an aspiring AI/ML engineer and a python enthusiast: pursuing a B.Tech in AI and an open-source enthusiast. As a key contributor and newly appointed marimo ambassador, he plays a vital role in the marimo community. Haleshot has created various notebooks, including a Goodreads Dataset EDA, and leads the marimo spotlight repository.
 8. [marimo-tutorials](008-marimo-tutorials/) A comprehensive collection of tutorials covering various aspects of marimo, created by Haleshot. These tutorials serve as an excellent resource for both beginners and advanced users looking to explore the full potential of marimo.
 9. [Stanford WE3 Lab](009-water-systems/) The Stanford WE3 Lab team, including [Akshay Rao](https://x.com/raodoesresearch) and [Fletch](https://github.com/fletchapin), presents a study on "[Valuing Energy Flexibility from Water Systems](https://www.nature.com/articles/s44221-024-00316-4)." Their marimo notebook visualizes methods for efficient operation of water systems in a decarbonizing grid, showcasing the application of data science in sustainable infrastructure management.
+10. [Mustjaab](010-Mustjaab/) Mustjaab is an enthusiastic contributor to the marimo community, sharing numerous fascinating notebooks including analyses of greenhouse gas emissions, exploration of Perplexity using `mo.ui.chat`, and various other insightful and interactive notebooks.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
