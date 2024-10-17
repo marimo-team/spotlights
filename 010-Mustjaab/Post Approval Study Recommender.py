@@ -40,9 +40,10 @@ async def __(micropip):
 
 
 @app.cell
-def __(pd, pyodide):
-    PAS_FDA = pyodide.http.open_url("https://raw.githubusercontent.com/Mustjaab/PAS-Recommender/main/Post_Approval_Studies.csv")
-    PAS_FDA = pd.read_csv(PAS_FDA,header=0)
+def __(pd):
+    # PAS_FDA = pyodide.http.open_url("https://raw.githubusercontent.com/Mustjaab/PAS-Recommender/main/Post_Approval_Studies.csv")
+    PAS_FDA = "assets\Post_Approval_Studies.csv"
+    PAS_FDA = pd.read_csv(PAS_FDA, header=0)
     return (PAS_FDA,)
 
 
