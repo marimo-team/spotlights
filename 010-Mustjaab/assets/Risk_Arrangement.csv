@@ -1,4 +1,4 @@
-﻿REF_DATE,GEO,DGUID,Risk management arrangements,North American Industry Classification System (NAICS),Size of enterprise,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+﻿REF_DATE,GEO,DGUID,Risk_management_arrangements,NAICS,Size of enterprise,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
 2019,Canada,,A written policy in place to manage internal cyber security risks,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391236,1.1.80.1,27.3,D,,,1
 2021,Canada,,A written policy in place to manage internal cyber security risks,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391236,1.1.80.1,25.2,D,,,1
 2021,Canada,,A written policy in place to manage cyber security risks associated with supply chain partners,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1428161882,1.11.80.1,0,B,,,1
