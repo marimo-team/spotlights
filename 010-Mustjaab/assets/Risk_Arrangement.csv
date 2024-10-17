@@ -1,0 +1,67 @@
+﻿REF_DATE,GEO,DGUID,Risk management arrangements,North American Industry Classification System (NAICS),Size of enterprise,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2019,Canada,,A written policy in place to manage internal cyber security risks,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391236,1.1.80.1,27.3,D,,,1
+2021,Canada,,A written policy in place to manage internal cyber security risks,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391236,1.1.80.1,25.2,D,,,1
+2021,Canada,,A written policy in place to manage cyber security risks associated with supply chain partners,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1428161882,1.11.80.1,0,B,,,1
+2019,Canada,,A written policy in place to report cyber security incidents,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391237,1.2.80.1,34.7,D,,,1
+2021,Canada,,A written policy in place to report cyber security incidents,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391237,1.2.80.1,11.1,C,,,1
+2021,Canada,,Other type of written policy related to cyber security,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1428161883,1.12.80.1,12.1,C,,,1
+2019,Canada,,"A Business Continuity Plan (BCP) with processes to manage cyber security threats, vulnerabilities and risks",Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391238,1.3.80.1,20,E,,,1
+2021,Canada,,"A Business Continuity Plan (BCP) with processes to manage cyber security threats, vulnerabilities and risks",Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391238,1.3.80.1,18.8,D,,,1
+2019,Canada,,Employees with responsibility for overseeing cyber security risks and threats,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391239,1.4.80.1,64.5,D,,,1
+2021,Canada,,Employees with responsibility for overseeing cyber security risks and threats,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391239,1.4.80.1,55.1,D,,,1
+2019,Canada,,Members of senior management with responsibility for overseeing cyber security risks and threats,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391240,1.5.80.1,53.6,D,,,1
+2021,Canada,,Members of senior management with responsibility for overseeing cyber security risks and threats,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391240,1.5.80.1,32.4,D,,,1
+2019,Canada,,A consultant or contractor to manage cyber security risks and threats,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391241,1.6.80.1,57.8,E,,,1
+2021,Canada,,A consultant or contractor to manage cyber security risks and threats,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391241,1.6.80.1,59.7,D,,,1
+2019,Canada,,Monthly or more frequent patching or updating of operating systems for security reasons,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391242,1.7.80.1,43.6,E,,,1
+2021,Canada,,Monthly or more frequent patching or updating of operating systems for security reasons,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391242,1.7.80.1,38.1,D,,,1
+2019,Canada,,Monthly or more frequent patching or updating of software for security reasons,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391243,1.8.80.1,38.5,D,,,1
+2021,Canada,,Monthly or more frequent patching or updating of software for security reasons,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391243,1.8.80.1,33.9,D,,,1
+2019,Canada,,Cyber risk insurance,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391234,1.9.80.1,43,D,,,1
+2021,Canada,,Cyber risk insurance,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391234,1.9.80.1,33,D,,,1
+2019,Canada,,Business does not have any risk management arrangements for cyber security,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391235,1.10.80.1,15.9,C,,,1
+2021,Canada,,Business does not have any risk management arrangements for cyber security,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1212391235,1.10.80.1,8.1,B,,,1
+2019,Canada,,A written policy in place to manage internal cyber security risks,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390576,1.1.2.1,3.9,A,,,1
+2021,Canada,,A written policy in place to manage internal cyber security risks,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390576,1.1.2.1,5.1,A,,,1
+2021,Canada,,A written policy in place to manage cyber security risks associated with supply chain partners,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1428161750,1.11.2.1,0.3,A,,,1
+2019,Canada,,A written policy in place to report cyber security incidents,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390577,1.2.2.1,1.8,A,,,1
+2021,Canada,,A written policy in place to report cyber security incidents,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390577,1.2.2.1,0.7,A,,,1
+2021,Canada,,Other type of written policy related to cyber security,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1428161751,1.12.2.1,3.4,A,,,1
+2019,Canada,,"A Business Continuity Plan (BCP) with processes to manage cyber security threats, vulnerabilities and risks","Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390578,1.3.2.1,2.2,A,,,1
+2021,Canada,,"A Business Continuity Plan (BCP) with processes to manage cyber security threats, vulnerabilities and risks","Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390578,1.3.2.1,1.8,A,,,1
+2019,Canada,,Employees with responsibility for overseeing cyber security risks and threats,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390579,1.4.2.1,45.9,B,,,1
+2021,Canada,,Employees with responsibility for overseeing cyber security risks and threats,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390579,1.4.2.1,44.5,B,,,1
+2019,Canada,,Members of senior management with responsibility for overseeing cyber security risks and threats,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390580,1.5.2.1,19.3,B,,,1
+2021,Canada,,Members of senior management with responsibility for overseeing cyber security risks and threats,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390580,1.5.2.1,10.2,A,,,1
+2019,Canada,,A consultant or contractor to manage cyber security risks and threats,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390581,1.6.2.1,22.2,B,,,1
+2021,Canada,,A consultant or contractor to manage cyber security risks and threats,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390581,1.6.2.1,25.4,B,,,1
+2019,Canada,,Monthly or more frequent patching or updating of operating systems for security reasons,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390582,1.7.2.1,13.4,B,,,1
+2021,Canada,,Monthly or more frequent patching or updating of operating systems for security reasons,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390582,1.7.2.1,13,B,,,1
+2019,Canada,,Monthly or more frequent patching or updating of software for security reasons,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390583,1.8.2.1,12.6,B,,,1
+2021,Canada,,Monthly or more frequent patching or updating of software for security reasons,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390583,1.8.2.1,13.9,B,,,1
+2019,Canada,,Cyber risk insurance,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390574,1.9.2.1,9.6,B,,,1
+2021,Canada,,Cyber risk insurance,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390574,1.9.2.1,9.8,B,,,1
+2019,Canada,,Business does not have any risk management arrangements for cyber security,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390575,1.10.2.1,42.3,B,,,1
+2021,Canada,,Business does not have any risk management arrangements for cyber security,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1212390575,1.10.2.1,37.2,B,,,1
+2019,Canada,,A written policy in place to manage internal cyber security risks,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391146,1.1.71.1,15.4,B,,,1
+2021,Canada,,A written policy in place to manage internal cyber security risks,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391146,1.1.71.1,23.5,B,,,1
+2021,Canada,,A written policy in place to manage cyber security risks associated with supply chain partners,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1428161864,1.11.71.1,5.9,A,,,1
+2019,Canada,,A written policy in place to report cyber security incidents,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391147,1.2.71.1,12.4,B,,,1
+2021,Canada,,A written policy in place to report cyber security incidents,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391147,1.2.71.1,14.4,B,,,1
+2021,Canada,,Other type of written policy related to cyber security,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1428161865,1.12.71.1,15.2,B,,,1
+2019,Canada,,"A Business Continuity Plan (BCP) with processes to manage cyber security threats, vulnerabilities and risks",Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391148,1.3.71.1,6.5,A,,,1
+2021,Canada,,"A Business Continuity Plan (BCP) with processes to manage cyber security threats, vulnerabilities and risks",Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391148,1.3.71.1,12.7,B,,,1
+2019,Canada,,Employees with responsibility for overseeing cyber security risks and threats,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391149,1.4.71.1,73.9,B,,,1
+2021,Canada,,Employees with responsibility for overseeing cyber security risks and threats,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391149,1.4.71.1,65.3,B,,,1
+2019,Canada,,Members of senior management with responsibility for overseeing cyber security risks and threats,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391150,1.5.71.1,29.7,B,,,1
+2021,Canada,,Members of senior management with responsibility for overseeing cyber security risks and threats,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391150,1.5.71.1,30.8,B,,,1
+2019,Canada,,A consultant or contractor to manage cyber security risks and threats,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391151,1.6.71.1,39.2,C,,,1
+2021,Canada,,A consultant or contractor to manage cyber security risks and threats,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391151,1.6.71.1,52.2,C,,,1
+2019,Canada,,Monthly or more frequent patching or updating of operating systems for security reasons,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391152,1.7.71.1,45.2,C,,,1
+2021,Canada,,Monthly or more frequent patching or updating of operating systems for security reasons,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391152,1.7.71.1,39.2,B,,,1
+2019,Canada,,Monthly or more frequent patching or updating of software for security reasons,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391153,1.8.71.1,39.9,B,,,1
+2021,Canada,,Monthly or more frequent patching or updating of software for security reasons,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391153,1.8.71.1,33.2,B,,,1
+2019,Canada,,Cyber risk insurance,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391144,1.9.71.1,19,B,,,1
+2021,Canada,,Cyber risk insurance,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391144,1.9.71.1,24.8,B,,,1
+2019,Canada,,Business does not have any risk management arrangements for cyber security,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391145,1.10.71.1,8.9,B,,,1
+2021,Canada,,Business does not have any risk management arrangements for cyber security,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1212391145,1.10.71.1,10.1,B,,,1
