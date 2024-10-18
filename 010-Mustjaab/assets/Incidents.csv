@@ -1,0 +1,403 @@
+﻿REF_DATE,GEO,DGUID,Cyber_security_incidents,NAICS,Size of enterprise,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Private sector,"Total, all enterprises",Percent,239,units,0,v1001761192,1.3.1.1,6.1,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Private sector,"Total, all enterprises",Percent,239,units,0,v1001761192,1.3.1.1,5.9,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1001761201,1.3.2.1,5.5,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1001761201,1.3.2.1,2.7,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Mining, quarrying, and oil and gas extraction [21]","Total, all enterprises",Percent,239,units,0,v1001761210,1.3.3.1,10.2,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Mining, quarrying, and oil and gas extraction [21]","Total, all enterprises",Percent,239,units,0,v1001761210,1.3.3.1,10.5,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Oil and gas extraction [211],"Total, all enterprises",Percent,239,units,0,v1001761219,1.3.4.1,15.3,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Oil and gas extraction [211],"Total, all enterprises",Percent,239,units,0,v1001761219,1.3.4.1,5.4,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Mining and quarrying (except oil and gas) [212],"Total, all enterprises",Percent,239,units,0,v1001761228,1.3.5.1,7.1,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Mining and quarrying (except oil and gas) [212],"Total, all enterprises",Percent,239,units,0,v1001761228,1.3.5.1,6.6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Support activities for mining, and oil and gas extraction [213]","Total, all enterprises",Percent,239,units,0,v1001761237,1.3.6.1,10.1,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Support activities for mining, and oil and gas extraction [213]","Total, all enterprises",Percent,239,units,0,v1001761237,1.3.6.1,13,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Utilities [22],"Total, all enterprises",Percent,239,units,0,v1001761246,1.3.7.1,6.8,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Utilities [22],"Total, all enterprises",Percent,239,units,0,v1001761246,1.3.7.1,6.9,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Electric power generation, transmission and distribution [2211]","Total, all enterprises",Percent,239,units,0,v1001761255,1.3.8.1,7.9,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Electric power generation, transmission and distribution [2211]","Total, all enterprises",Percent,239,units,0,v1001761255,1.3.8.1,4.8,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Natural gas distribution [2212],"Total, all enterprises",Percent,239,units,0,v1001761264,1.3.9.1,7.8,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Natural gas distribution [2212],"Total, all enterprises",Percent,239,units,0,v1001761264,1.3.9.1,7.6,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Water, sewage and other systems [2213]","Total, all enterprises",Percent,239,units,0,v1001761273,1.3.10.1,2.6,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Water, sewage and other systems [2213]","Total, all enterprises",Percent,239,units,0,v1001761273,1.3.10.1,13.5,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Construction [23],"Total, all enterprises",Percent,239,units,0,v1001761282,1.3.11.1,7.3,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Construction [23],"Total, all enterprises",Percent,239,units,0,v1001761282,1.3.11.1,8.7,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Manufacturing [31-33],"Total, all enterprises",Percent,239,units,0,v1001761291,1.3.12.1,8.1,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Manufacturing [31-33],"Total, all enterprises",Percent,239,units,0,v1001761291,1.3.12.1,6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Wholesale trade [41],"Total, all enterprises",Percent,239,units,0,v1001761300,1.3.13.1,11.5,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Wholesale trade [41],"Total, all enterprises",Percent,239,units,0,v1001761300,1.3.13.1,9.4,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Retail trade [44-45],"Total, all enterprises",Percent,239,units,0,v1001761309,1.3.14.1,6.1,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Retail trade [44-45],"Total, all enterprises",Percent,239,units,0,v1001761309,1.3.14.1,4.8,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Transportation and warehousing [48-49],"Total, all enterprises",Percent,239,units,0,v1001761426,1.3.27.1,9.4,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Transportation and warehousing [48-49],"Total, all enterprises",Percent,239,units,0,v1001761426,1.3.27.1,6.6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Air transportation [481],"Total, all enterprises",Percent,239,units,0,v1001761435,1.3.28.1,8.2,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Air transportation [481],"Total, all enterprises",Percent,239,units,0,v1001761435,1.3.28.1,10.1,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Rail transportation [482],"Total, all enterprises",Percent,239,units,0,v1001761444,1.3.29.1,9.2,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Rail transportation [482],"Total, all enterprises",Percent,239,units,0,v1001761444,1.3.29.1,13.4,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Water transportation [483],"Total, all enterprises",Percent,239,units,0,v1001761453,1.3.30.1,5.2,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Water transportation [483],"Total, all enterprises",Percent,239,units,0,v1001761453,1.3.30.1,7.1,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Truck transportation [484],"Total, all enterprises",Percent,239,units,0,v1001761462,1.3.31.1,10.9,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Truck transportation [484],"Total, all enterprises",Percent,239,units,0,v1001761462,1.3.31.1,6,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Transit and ground passenger transportation [485],"Total, all enterprises",Percent,239,units,0,v1001761471,1.3.32.1,7.1,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Transit and ground passenger transportation [485],"Total, all enterprises",Percent,239,units,0,v1001761471,1.3.32.1,5.9,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Pipeline transportation [486],"Total, all enterprises",Percent,239,units,0,v1001761480,1.3.33.1,0,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Pipeline transportation [486],"Total, all enterprises",Percent,239,units,0,v1001761480,1.3.33.1,0,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Scenic and sightseeing transportation [487],"Total, all enterprises",Percent,239,units,0,v1001761489,1.3.34.1,8,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Scenic and sightseeing transportation [487],"Total, all enterprises",Percent,239,units,0,v1001761489,1.3.34.1,4.5,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Support activities for transportation [488],"Total, all enterprises",Percent,239,units,0,v1001761498,1.3.35.1,7.8,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Support activities for transportation [488],"Total, all enterprises",Percent,239,units,0,v1001761498,1.3.35.1,8.5,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Postal service [491],"Total, all enterprises",Percent,239,units,0,v1001761507,1.3.36.1,3.8,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Postal service [491],"Total, all enterprises",Percent,239,units,0,v1001761507,1.3.36.1,0,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Couriers and messengers [492],"Total, all enterprises",Percent,239,units,0,v1001761516,1.3.37.1,10,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Couriers and messengers [492],"Total, all enterprises",Percent,239,units,0,v1001761516,1.3.37.1,4.3,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Warehousing and storage [493],"Total, all enterprises",Percent,239,units,0,v1001761525,1.3.38.1,7.4,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Warehousing and storage [493],"Total, all enterprises",Percent,239,units,0,v1001761525,1.3.38.1,7.3,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Information and cultural industries [51],"Total, all enterprises",Percent,239,units,0,v1001761534,1.3.39.1,3.3,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Information and cultural industries [51],"Total, all enterprises",Percent,239,units,0,v1001761534,1.3.39.1,6.7,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Publishing industries [511],"Total, all enterprises",Percent,239,units,0,v1001761543,1.3.40.1,0.5,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Publishing industries [511],"Total, all enterprises",Percent,239,units,0,v1001761543,1.3.40.1,0,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Motion picture and sound recording industries [512],"Total, all enterprises",Percent,239,units,0,v1001761552,1.3.41.1,11.3,D,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Motion picture and sound recording industries [512],"Total, all enterprises",Percent,239,units,0,v1001761552,1.3.41.1,,F,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Broadcasting [515],"Total, all enterprises",Percent,239,units,0,v1001761561,1.3.42.1,0,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Broadcasting [515],"Total, all enterprises",Percent,239,units,0,v1001761561,1.3.42.1,0,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Telecommunications [517],"Total, all enterprises",Percent,239,units,0,v1001761570,1.3.43.1,0,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Telecommunications [517],"Total, all enterprises",Percent,239,units,0,v1001761570,1.3.43.1,13.1,E,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Internet service providers, web search portals, and data processing services [518]","Total, all enterprises",Percent,239,units,0,v1001761579,1.3.44.1,9.3,D,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Internet service providers, web search portals, and data processing services [518]","Total, all enterprises",Percent,239,units,0,v1001761579,1.3.44.1,4.1,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Other information services [519],"Total, all enterprises",Percent,239,units,0,v1001761588,1.3.45.1,0,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Other information services [519],"Total, all enterprises",Percent,239,units,0,v1001761588,1.3.45.1,0,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Finance and insurance [52],"Total, all enterprises",Percent,239,units,0,v1001761597,1.3.46.1,11.1,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Finance and insurance [52],"Total, all enterprises",Percent,239,units,0,v1001761597,1.3.46.1,13.4,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Monetary authorities-central bank, and credit intermediation and related activitivies [521-522]","Total, all enterprises",Percent,239,units,0,v1001761606,1.3.47.1,26.4,C,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Monetary authorities-central bank, and credit intermediation and related activitivies [521-522]","Total, all enterprises",Percent,239,units,0,v1001761606,1.3.47.1,25.5,C,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Securities, commodity contracts, and other financial investment and related activities [523]","Total, all enterprises",Percent,239,units,0,v1001761615,1.3.48.1,9.5,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Securities, commodity contracts, and other financial investment and related activities [523]","Total, all enterprises",Percent,239,units,0,v1001761615,1.3.48.1,6.7,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Insurance carriers and related activities [524],"Total, all enterprises",Percent,239,units,0,v1001761624,1.3.49.1,3.2,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Insurance carriers and related activities [524],"Total, all enterprises",Percent,239,units,0,v1001761624,1.3.49.1,10.7,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Funds and other financial vehicles [526],"Total, all enterprises",Percent,239,units,0,v1001761633,1.3.50.1,8.6,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Funds and other financial vehicles [526],"Total, all enterprises",Percent,239,units,0,v1001761633,1.3.50.1,13.3,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Real estate and rental and leasing [53],"Total, all enterprises",Percent,239,units,0,v1001761642,1.3.51.1,6.3,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Real estate and rental and leasing [53],"Total, all enterprises",Percent,239,units,0,v1001761642,1.3.51.1,7,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Professional, scientific and technical services [54]","Total, all enterprises",Percent,239,units,0,v1001761651,1.3.52.1,9.5,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Professional, scientific and technical services [54]","Total, all enterprises",Percent,239,units,0,v1001761651,1.3.52.1,6.3,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Legal services [5411],"Total, all enterprises",Percent,239,units,0,v1001761660,1.3.53.1,7.6,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Legal services [5411],"Total, all enterprises",Percent,239,units,0,v1001761660,1.3.53.1,3.6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Accounting, tax preparation, bookkeeping and payroll services [5412]","Total, all enterprises",Percent,239,units,0,v1001761669,1.3.54.1,15.8,C,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Accounting, tax preparation, bookkeeping and payroll services [5412]","Total, all enterprises",Percent,239,units,0,v1001761669,1.3.54.1,4.8,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Architectural, engineering and related services [5413]","Total, all enterprises",Percent,239,units,0,v1001761678,1.3.55.1,11.2,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Architectural, engineering and related services [5413]","Total, all enterprises",Percent,239,units,0,v1001761678,1.3.55.1,9.1,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Specialized design services [5414],"Total, all enterprises",Percent,239,units,0,v1001761687,1.3.56.1,7,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Specialized design services [5414],"Total, all enterprises",Percent,239,units,0,v1001761687,1.3.56.1,6.1,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Computer systems design and related services [5415],"Total, all enterprises",Percent,239,units,0,v1001761696,1.3.57.1,9,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Computer systems design and related services [5415],"Total, all enterprises",Percent,239,units,0,v1001761696,1.3.57.1,6.4,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Management, scientific and technical consulting services [5416]","Total, all enterprises",Percent,239,units,0,v1001761705,1.3.58.1,13.8,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Management, scientific and technical consulting services [5416]","Total, all enterprises",Percent,239,units,0,v1001761705,1.3.58.1,6.4,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Scientific research and development services [5417],"Total, all enterprises",Percent,239,units,0,v1001761714,1.3.59.1,8.2,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Scientific research and development services [5417],"Total, all enterprises",Percent,239,units,0,v1001761714,1.3.59.1,14.3,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Advertising and related services [5418],"Total, all enterprises",Percent,239,units,0,v1001761723,1.3.60.1,11.7,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Advertising and related services [5418],"Total, all enterprises",Percent,239,units,0,v1001761723,1.3.60.1,7.5,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Other professional, scientific and technical services [5419]","Total, all enterprises",Percent,239,units,0,v1001761732,1.3.61.1,1.4,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Other professional, scientific and technical services [5419]","Total, all enterprises",Percent,239,units,0,v1001761732,1.3.61.1,2.3,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Management of companies and enterprises [55],"Total, all enterprises",Percent,239,units,0,v1001761741,1.3.62.1,10.3,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Management of companies and enterprises [55],"Total, all enterprises",Percent,239,units,0,v1001761741,1.3.62.1,10.5,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Administrative and support, waste management and remediation services [56]","Total, all enterprises",Percent,239,units,0,v1001761750,1.3.63.1,3,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Administrative and support, waste management and remediation services [56]","Total, all enterprises",Percent,239,units,0,v1001761750,1.3.63.1,4,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Educational services [61],"Total, all enterprises",Percent,239,units,0,v1001761759,1.3.64.1,3.7,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Educational services [61],"Total, all enterprises",Percent,239,units,0,v1001761759,1.3.64.1,7,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1001761768,1.3.65.1,5.9,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1001761768,1.3.65.1,10.8,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Community colleges and C.E.G.E.P.s [6112],"Total, all enterprises",Percent,239,units,0,v1001761777,1.3.66.1,5.2,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Community colleges and C.E.G.E.P.s [6112],"Total, all enterprises",Percent,239,units,0,v1001761777,1.3.66.1,3.1,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Universities [6113],"Total, all enterprises",Percent,239,units,0,v1001761786,1.3.67.1,16.7,D,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Universities [6113],"Total, all enterprises",Percent,239,units,0,v1001761786,1.3.67.1,5.6,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Business schools and computer and management training [6114],"Total, all enterprises",Percent,239,units,0,v1001761795,1.3.68.1,6.4,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Business schools and computer and management training [6114],"Total, all enterprises",Percent,239,units,0,v1001761795,1.3.68.1,9,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Technical and trade schools [6115],"Total, all enterprises",Percent,239,units,0,v1001761804,1.3.69.1,5.6,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Technical and trade schools [6115],"Total, all enterprises",Percent,239,units,0,v1001761804,1.3.69.1,3.2,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Other schools and instruction [6116],"Total, all enterprises",Percent,239,units,0,v1001761813,1.3.70.1,2.1,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Other schools and instruction [6116],"Total, all enterprises",Percent,239,units,0,v1001761813,1.3.70.1,5.4,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Educational support services [6117],"Total, all enterprises",Percent,239,units,0,v1001761822,1.3.71.1,4.5,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Educational support services [6117],"Total, all enterprises",Percent,239,units,0,v1001761822,1.3.71.1,8.5,B,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Health care and social assistance [62],"Total, all enterprises",Percent,239,units,0,v1001761831,1.3.72.1,4.1,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Health care and social assistance [62],"Total, all enterprises",Percent,239,units,0,v1001761831,1.3.72.1,2.7,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Ambulatory health care services [621],"Total, all enterprises",Percent,239,units,0,v1001761840,1.3.73.1,4.2,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Ambulatory health care services [621],"Total, all enterprises",Percent,239,units,0,v1001761840,1.3.73.1,2.6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1001761849,1.3.74.1,16.9,C,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1001761849,1.3.74.1,4.1,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Nursing and residential care facilities [623],"Total, all enterprises",Percent,239,units,0,v1001761858,1.3.75.1,6.5,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Nursing and residential care facilities [623],"Total, all enterprises",Percent,239,units,0,v1001761858,1.3.75.1,3.6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Social assistance [624],"Total, all enterprises",Percent,239,units,0,v1001761867,1.3.76.1,3.2,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Social assistance [624],"Total, all enterprises",Percent,239,units,0,v1001761867,1.3.76.1,2.5,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,"Arts, entertainment and recreation [71]","Total, all enterprises",Percent,239,units,0,v1001761876,1.3.77.1,5.5,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,"Arts, entertainment and recreation [71]","Total, all enterprises",Percent,239,units,0,v1001761876,1.3.77.1,3.6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Accommodation and food services [72],"Total, all enterprises",Percent,239,units,0,v1001761885,1.3.78.1,1.6,A,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Accommodation and food services [72],"Total, all enterprises",Percent,239,units,0,v1001761885,1.3.78.1,5.8,A,,,1
+2019,Canada,2016A000011124,Incidents to steal personal or financial information,Other services (except public administration) [81],"Total, all enterprises",Percent,239,units,0,v1001761894,1.3.79.1,7.6,B,,,1
+2021,Canada,2016A000011124,Incidents to steal personal or financial information,Other services (except public administration) [81],"Total, all enterprises",Percent,239,units,0,v1001761894,1.3.79.1,5.6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Private sector,"Total, all enterprises",Percent,239,units,0,v1001761193,1.4.1.1,8.8,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Private sector,"Total, all enterprises",Percent,239,units,0,v1001761193,1.4.1.1,6.7,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1001761202,1.4.2.1,5.9,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1001761202,1.4.2.1,2.7,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Mining, quarrying, and oil and gas extraction [21]","Total, all enterprises",Percent,239,units,0,v1001761211,1.4.3.1,18.2,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Mining, quarrying, and oil and gas extraction [21]","Total, all enterprises",Percent,239,units,0,v1001761211,1.4.3.1,12.5,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Oil and gas extraction [211],"Total, all enterprises",Percent,239,units,0,v1001761220,1.4.4.1,25.9,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Oil and gas extraction [211],"Total, all enterprises",Percent,239,units,0,v1001761220,1.4.4.1,18.7,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Mining and quarrying (except oil and gas) [212],"Total, all enterprises",Percent,239,units,0,v1001761229,1.4.5.1,17.6,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Mining and quarrying (except oil and gas) [212],"Total, all enterprises",Percent,239,units,0,v1001761229,1.4.5.1,12.9,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Support activities for mining, and oil and gas extraction [213]","Total, all enterprises",Percent,239,units,0,v1001761238,1.4.6.1,16.8,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Support activities for mining, and oil and gas extraction [213]","Total, all enterprises",Percent,239,units,0,v1001761238,1.4.6.1,11.2,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Utilities [22],"Total, all enterprises",Percent,239,units,0,v1001761247,1.4.7.1,11.7,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Utilities [22],"Total, all enterprises",Percent,239,units,0,v1001761247,1.4.7.1,9.6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Electric power generation, transmission and distribution [2211]","Total, all enterprises",Percent,239,units,0,v1001761256,1.4.8.1,12.3,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Electric power generation, transmission and distribution [2211]","Total, all enterprises",Percent,239,units,0,v1001761256,1.4.8.1,10.6,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Natural gas distribution [2212],"Total, all enterprises",Percent,239,units,0,v1001761265,1.4.9.1,13.3,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Natural gas distribution [2212],"Total, all enterprises",Percent,239,units,0,v1001761265,1.4.9.1,10.8,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Water, sewage and other systems [2213]","Total, all enterprises",Percent,239,units,0,v1001761274,1.4.10.1,8.2,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Water, sewage and other systems [2213]","Total, all enterprises",Percent,239,units,0,v1001761274,1.4.10.1,5.1,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Construction [23],"Total, all enterprises",Percent,239,units,0,v1001761283,1.4.11.1,6.6,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Construction [23],"Total, all enterprises",Percent,239,units,0,v1001761283,1.4.11.1,9.9,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Manufacturing [31-33],"Total, all enterprises",Percent,239,units,0,v1001761292,1.4.12.1,12.2,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Manufacturing [31-33],"Total, all enterprises",Percent,239,units,0,v1001761292,1.4.12.1,8.4,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Wholesale trade [41],"Total, all enterprises",Percent,239,units,0,v1001761301,1.4.13.1,12.7,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Wholesale trade [41],"Total, all enterprises",Percent,239,units,0,v1001761301,1.4.13.1,11.6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Retail trade [44-45],"Total, all enterprises",Percent,239,units,0,v1001761310,1.4.14.1,8.1,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Retail trade [44-45],"Total, all enterprises",Percent,239,units,0,v1001761310,1.4.14.1,4.5,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Transportation and warehousing [48-49],"Total, all enterprises",Percent,239,units,0,v1001761427,1.4.27.1,10.8,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Transportation and warehousing [48-49],"Total, all enterprises",Percent,239,units,0,v1001761427,1.4.27.1,6.9,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Air transportation [481],"Total, all enterprises",Percent,239,units,0,v1001761436,1.4.28.1,19.9,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Air transportation [481],"Total, all enterprises",Percent,239,units,0,v1001761436,1.4.28.1,3.9,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Rail transportation [482],"Total, all enterprises",Percent,239,units,0,v1001761445,1.4.29.1,21.8,D,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Rail transportation [482],"Total, all enterprises",Percent,239,units,0,v1001761445,1.4.29.1,18.9,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Water transportation [483],"Total, all enterprises",Percent,239,units,0,v1001761454,1.4.30.1,17.4,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Water transportation [483],"Total, all enterprises",Percent,239,units,0,v1001761454,1.4.30.1,10.8,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Truck transportation [484],"Total, all enterprises",Percent,239,units,0,v1001761463,1.4.31.1,11,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Truck transportation [484],"Total, all enterprises",Percent,239,units,0,v1001761463,1.4.31.1,6.4,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Transit and ground passenger transportation [485],"Total, all enterprises",Percent,239,units,0,v1001761472,1.4.32.1,4.3,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Transit and ground passenger transportation [485],"Total, all enterprises",Percent,239,units,0,v1001761472,1.4.32.1,7.6,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Pipeline transportation [486],"Total, all enterprises",Percent,239,units,0,v1001761481,1.4.33.1,,F,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Pipeline transportation [486],"Total, all enterprises",Percent,239,units,0,v1001761481,1.4.33.1,0,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Scenic and sightseeing transportation [487],"Total, all enterprises",Percent,239,units,0,v1001761490,1.4.34.1,11.2,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Scenic and sightseeing transportation [487],"Total, all enterprises",Percent,239,units,0,v1001761490,1.4.34.1,9.3,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Support activities for transportation [488],"Total, all enterprises",Percent,239,units,0,v1001761499,1.4.35.1,12.8,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Support activities for transportation [488],"Total, all enterprises",Percent,239,units,0,v1001761499,1.4.35.1,9,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Postal service [491],"Total, all enterprises",Percent,239,units,0,v1001761508,1.4.36.1,13.3,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Postal service [491],"Total, all enterprises",Percent,239,units,0,v1001761508,1.4.36.1,0,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Couriers and messengers [492],"Total, all enterprises",Percent,239,units,0,v1001761517,1.4.37.1,8.6,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Couriers and messengers [492],"Total, all enterprises",Percent,239,units,0,v1001761517,1.4.37.1,2.1,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Warehousing and storage [493],"Total, all enterprises",Percent,239,units,0,v1001761526,1.4.38.1,9.6,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Warehousing and storage [493],"Total, all enterprises",Percent,239,units,0,v1001761526,1.4.38.1,6.6,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Information and cultural industries [51],"Total, all enterprises",Percent,239,units,0,v1001761535,1.4.39.1,13.1,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Information and cultural industries [51],"Total, all enterprises",Percent,239,units,0,v1001761535,1.4.39.1,6.6,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Publishing industries [511],"Total, all enterprises",Percent,239,units,0,v1001761544,1.4.40.1,17.1,D,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Publishing industries [511],"Total, all enterprises",Percent,239,units,0,v1001761544,1.4.40.1,1.5,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Motion picture and sound recording industries [512],"Total, all enterprises",Percent,239,units,0,v1001761553,1.4.41.1,14.8,E,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Motion picture and sound recording industries [512],"Total, all enterprises",Percent,239,units,0,v1001761553,1.4.41.1,1.1,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Broadcasting [515],"Total, all enterprises",Percent,239,units,0,v1001761562,1.4.42.1,10.8,D,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Broadcasting [515],"Total, all enterprises",Percent,239,units,0,v1001761562,1.4.42.1,0,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Telecommunications [517],"Total, all enterprises",Percent,239,units,0,v1001761571,1.4.43.1,13.3,D,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Telecommunications [517],"Total, all enterprises",Percent,239,units,0,v1001761571,1.4.43.1,,F,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Internet service providers, web search portals, and data processing services [518]","Total, all enterprises",Percent,239,units,0,v1001761580,1.4.44.1,0,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Internet service providers, web search portals, and data processing services [518]","Total, all enterprises",Percent,239,units,0,v1001761580,1.4.44.1,0,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Other information services [519],"Total, all enterprises",Percent,239,units,0,v1001761589,1.4.45.1,9.5,E,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Other information services [519],"Total, all enterprises",Percent,239,units,0,v1001761589,1.4.45.1,8.6,D,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Finance and insurance [52],"Total, all enterprises",Percent,239,units,0,v1001761598,1.4.46.1,11.7,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Finance and insurance [52],"Total, all enterprises",Percent,239,units,0,v1001761598,1.4.46.1,10.7,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Monetary authorities-central bank, and credit intermediation and related activitivies [521-522]","Total, all enterprises",Percent,239,units,0,v1001761607,1.4.47.1,6.6,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Monetary authorities-central bank, and credit intermediation and related activitivies [521-522]","Total, all enterprises",Percent,239,units,0,v1001761607,1.4.47.1,24.4,C,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Securities, commodity contracts, and other financial investment and related activities [523]","Total, all enterprises",Percent,239,units,0,v1001761616,1.4.48.1,15.4,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Securities, commodity contracts, and other financial investment and related activities [523]","Total, all enterprises",Percent,239,units,0,v1001761616,1.4.48.1,4.3,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Insurance carriers and related activities [524],"Total, all enterprises",Percent,239,units,0,v1001761625,1.4.49.1,12.4,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Insurance carriers and related activities [524],"Total, all enterprises",Percent,239,units,0,v1001761625,1.4.49.1,6.7,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Funds and other financial vehicles [526],"Total, all enterprises",Percent,239,units,0,v1001761634,1.4.50.1,9,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Funds and other financial vehicles [526],"Total, all enterprises",Percent,239,units,0,v1001761634,1.4.50.1,12.6,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Real estate and rental and leasing [53],"Total, all enterprises",Percent,239,units,0,v1001761643,1.4.51.1,13,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Real estate and rental and leasing [53],"Total, all enterprises",Percent,239,units,0,v1001761643,1.4.51.1,8.1,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Professional, scientific and technical services [54]","Total, all enterprises",Percent,239,units,0,v1001761652,1.4.52.1,13.6,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Professional, scientific and technical services [54]","Total, all enterprises",Percent,239,units,0,v1001761652,1.4.52.1,8.4,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Legal services [5411],"Total, all enterprises",Percent,239,units,0,v1001761661,1.4.53.1,11.3,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Legal services [5411],"Total, all enterprises",Percent,239,units,0,v1001761661,1.4.53.1,3.7,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Accounting, tax preparation, bookkeeping and payroll services [5412]","Total, all enterprises",Percent,239,units,0,v1001761670,1.4.54.1,18.6,C,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Accounting, tax preparation, bookkeeping and payroll services [5412]","Total, all enterprises",Percent,239,units,0,v1001761670,1.4.54.1,2.6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Architectural, engineering and related services [5413]","Total, all enterprises",Percent,239,units,0,v1001761679,1.4.55.1,16.8,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Architectural, engineering and related services [5413]","Total, all enterprises",Percent,239,units,0,v1001761679,1.4.55.1,11.4,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Specialized design services [5414],"Total, all enterprises",Percent,239,units,0,v1001761688,1.4.56.1,13.4,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Specialized design services [5414],"Total, all enterprises",Percent,239,units,0,v1001761688,1.4.56.1,5.6,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Computer systems design and related services [5415],"Total, all enterprises",Percent,239,units,0,v1001761697,1.4.57.1,10.3,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Computer systems design and related services [5415],"Total, all enterprises",Percent,239,units,0,v1001761697,1.4.57.1,9.5,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Management, scientific and technical consulting services [5416]","Total, all enterprises",Percent,239,units,0,v1001761706,1.4.58.1,14.2,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Management, scientific and technical consulting services [5416]","Total, all enterprises",Percent,239,units,0,v1001761706,1.4.58.1,13.9,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Scientific research and development services [5417],"Total, all enterprises",Percent,239,units,0,v1001761715,1.4.59.1,11.8,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Scientific research and development services [5417],"Total, all enterprises",Percent,239,units,0,v1001761715,1.4.59.1,10.3,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Advertising and related services [5418],"Total, all enterprises",Percent,239,units,0,v1001761724,1.4.60.1,27.2,C,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Advertising and related services [5418],"Total, all enterprises",Percent,239,units,0,v1001761724,1.4.60.1,12.7,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Other professional, scientific and technical services [5419]","Total, all enterprises",Percent,239,units,0,v1001761733,1.4.61.1,5.6,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Other professional, scientific and technical services [5419]","Total, all enterprises",Percent,239,units,0,v1001761733,1.4.61.1,3.6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Management of companies and enterprises [55],"Total, all enterprises",Percent,239,units,0,v1001761742,1.4.62.1,19,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Management of companies and enterprises [55],"Total, all enterprises",Percent,239,units,0,v1001761742,1.4.62.1,9.6,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Administrative and support, waste management and remediation services [56]","Total, all enterprises",Percent,239,units,0,v1001761751,1.4.63.1,8.4,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Administrative and support, waste management and remediation services [56]","Total, all enterprises",Percent,239,units,0,v1001761751,1.4.63.1,4.3,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Educational services [61],"Total, all enterprises",Percent,239,units,0,v1001761760,1.4.64.1,8,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Educational services [61],"Total, all enterprises",Percent,239,units,0,v1001761760,1.4.64.1,6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1001761769,1.4.65.1,13.3,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1001761769,1.4.65.1,8.8,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Community colleges and C.E.G.E.P.s [6112],"Total, all enterprises",Percent,239,units,0,v1001761778,1.4.66.1,20.6,C,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Community colleges and C.E.G.E.P.s [6112],"Total, all enterprises",Percent,239,units,0,v1001761778,1.4.66.1,7.2,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Universities [6113],"Total, all enterprises",Percent,239,units,0,v1001761787,1.4.67.1,16.7,D,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Universities [6113],"Total, all enterprises",Percent,239,units,0,v1001761787,1.4.67.1,17.2,C,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Business schools and computer and management training [6114],"Total, all enterprises",Percent,239,units,0,v1001761796,1.4.68.1,20.2,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Business schools and computer and management training [6114],"Total, all enterprises",Percent,239,units,0,v1001761796,1.4.68.1,9.1,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Technical and trade schools [6115],"Total, all enterprises",Percent,239,units,0,v1001761805,1.4.69.1,8.5,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Technical and trade schools [6115],"Total, all enterprises",Percent,239,units,0,v1001761805,1.4.69.1,2.5,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Other schools and instruction [6116],"Total, all enterprises",Percent,239,units,0,v1001761814,1.4.70.1,3.9,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Other schools and instruction [6116],"Total, all enterprises",Percent,239,units,0,v1001761814,1.4.70.1,4.8,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Educational support services [6117],"Total, all enterprises",Percent,239,units,0,v1001761823,1.4.71.1,8.8,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Educational support services [6117],"Total, all enterprises",Percent,239,units,0,v1001761823,1.4.71.1,4.2,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Health care and social assistance [62],"Total, all enterprises",Percent,239,units,0,v1001761832,1.4.72.1,4.2,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Health care and social assistance [62],"Total, all enterprises",Percent,239,units,0,v1001761832,1.4.72.1,1.8,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Ambulatory health care services [621],"Total, all enterprises",Percent,239,units,0,v1001761841,1.4.73.1,7,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Ambulatory health care services [621],"Total, all enterprises",Percent,239,units,0,v1001761841,1.4.73.1,1.4,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1001761850,1.4.74.1,27.5,D,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1001761850,1.4.74.1,4.1,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Nursing and residential care facilities [623],"Total, all enterprises",Percent,239,units,0,v1001761859,1.4.75.1,3.1,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Nursing and residential care facilities [623],"Total, all enterprises",Percent,239,units,0,v1001761859,1.4.75.1,2.6,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Social assistance [624],"Total, all enterprises",Percent,239,units,0,v1001761868,1.4.76.1,1.1,A,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Social assistance [624],"Total, all enterprises",Percent,239,units,0,v1001761868,1.4.76.1,2.1,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Arts, entertainment and recreation [71]","Total, all enterprises",Percent,239,units,0,v1001761877,1.4.77.1,9.3,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,"Arts, entertainment and recreation [71]","Total, all enterprises",Percent,239,units,0,v1001761877,1.4.77.1,2.3,A,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Accommodation and food services [72],"Total, all enterprises",Percent,239,units,0,v1001761886,1.4.78.1,4.3,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Accommodation and food services [72],"Total, all enterprises",Percent,239,units,0,v1001761886,1.4.78.1,7.7,B,,,1
+2019,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Other services (except public administration) [81],"Total, all enterprises",Percent,239,units,0,v1001761895,1.4.79.1,10.2,B,,,1
+2021,Canada,2016A000011124,Incidents to steal money or demand ransom payment,Other services (except public administration) [81],"Total, all enterprises",Percent,239,units,0,v1001761895,1.4.79.1,7,A,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Private sector,"Total, all enterprises",Percent,239,units,0,v1001761198,1.9.1.1,79.2,A,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Private sector,"Total, all enterprises",Percent,239,units,0,v1001761198,1.9.1.1,81.9,A,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1001761207,1.9.2.1,83.3,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Agriculture, forestry, fishing and hunting [11]","Total, all enterprises",Percent,239,units,0,v1001761207,1.9.2.1,92.2,A,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Mining, quarrying, and oil and gas extraction [21]","Total, all enterprises",Percent,239,units,0,v1001761216,1.9.3.1,70.1,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Mining, quarrying, and oil and gas extraction [21]","Total, all enterprises",Percent,239,units,0,v1001761216,1.9.3.1,72.5,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Oil and gas extraction [211],"Total, all enterprises",Percent,239,units,0,v1001761225,1.9.4.1,58.2,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Oil and gas extraction [211],"Total, all enterprises",Percent,239,units,0,v1001761225,1.9.4.1,66.9,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Mining and quarrying (except oil and gas) [212],"Total, all enterprises",Percent,239,units,0,v1001761234,1.9.5.1,72.8,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Mining and quarrying (except oil and gas) [212],"Total, all enterprises",Percent,239,units,0,v1001761234,1.9.5.1,77.2,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Support activities for mining, and oil and gas extraction [213]","Total, all enterprises",Percent,239,units,0,v1001761243,1.9.6.1,71.8,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Support activities for mining, and oil and gas extraction [213]","Total, all enterprises",Percent,239,units,0,v1001761243,1.9.6.1,71.8,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Utilities [22],"Total, all enterprises",Percent,239,units,0,v1001761252,1.9.7.1,73.9,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Utilities [22],"Total, all enterprises",Percent,239,units,0,v1001761252,1.9.7.1,78.5,A,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Electric power generation, transmission and distribution [2211]","Total, all enterprises",Percent,239,units,0,v1001761261,1.9.8.1,67.6,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Electric power generation, transmission and distribution [2211]","Total, all enterprises",Percent,239,units,0,v1001761261,1.9.8.1,77.9,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Natural gas distribution [2212],"Total, all enterprises",Percent,239,units,0,v1001761270,1.9.9.1,82,A,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Natural gas distribution [2212],"Total, all enterprises",Percent,239,units,0,v1001761270,1.9.9.1,78.7,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Water, sewage and other systems [2213]","Total, all enterprises",Percent,239,units,0,v1001761279,1.9.10.1,86.3,A,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Water, sewage and other systems [2213]","Total, all enterprises",Percent,239,units,0,v1001761279,1.9.10.1,80,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Construction [23],"Total, all enterprises",Percent,239,units,0,v1001761288,1.9.11.1,80.8,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Construction [23],"Total, all enterprises",Percent,239,units,0,v1001761288,1.9.11.1,73.2,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Manufacturing [31-33],"Total, all enterprises",Percent,239,units,0,v1001761297,1.9.12.1,75,A,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Manufacturing [31-33],"Total, all enterprises",Percent,239,units,0,v1001761297,1.9.12.1,77.9,A,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Wholesale trade [41],"Total, all enterprises",Percent,239,units,0,v1001761306,1.9.13.1,66.5,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Wholesale trade [41],"Total, all enterprises",Percent,239,units,0,v1001761306,1.9.13.1,74,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Retail trade [44-45],"Total, all enterprises",Percent,239,units,0,v1001761315,1.9.14.1,81.2,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Retail trade [44-45],"Total, all enterprises",Percent,239,units,0,v1001761315,1.9.14.1,82,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Transportation and warehousing [48-49],"Total, all enterprises",Percent,239,units,0,v1001761432,1.9.27.1,74.3,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Transportation and warehousing [48-49],"Total, all enterprises",Percent,239,units,0,v1001761432,1.9.27.1,81.3,A,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Air transportation [481],"Total, all enterprises",Percent,239,units,0,v1001761441,1.9.28.1,56.9,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Air transportation [481],"Total, all enterprises",Percent,239,units,0,v1001761441,1.9.28.1,84.1,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Rail transportation [482],"Total, all enterprises",Percent,239,units,0,v1001761450,1.9.29.1,71.6,D,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Rail transportation [482],"Total, all enterprises",Percent,239,units,0,v1001761450,1.9.29.1,59.7,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Water transportation [483],"Total, all enterprises",Percent,239,units,0,v1001761459,1.9.30.1,77,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Water transportation [483],"Total, all enterprises",Percent,239,units,0,v1001761459,1.9.30.1,77.2,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Truck transportation [484],"Total, all enterprises",Percent,239,units,0,v1001761468,1.9.31.1,72.3,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Truck transportation [484],"Total, all enterprises",Percent,239,units,0,v1001761468,1.9.31.1,83.4,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Transit and ground passenger transportation [485],"Total, all enterprises",Percent,239,units,0,v1001761477,1.9.32.1,87.1,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Transit and ground passenger transportation [485],"Total, all enterprises",Percent,239,units,0,v1001761477,1.9.32.1,87,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Pipeline transportation [486],"Total, all enterprises",Percent,239,units,0,v1001761486,1.9.33.1,,F,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Pipeline transportation [486],"Total, all enterprises",Percent,239,units,0,v1001761486,1.9.33.1,100,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Scenic and sightseeing transportation [487],"Total, all enterprises",Percent,239,units,0,v1001761495,1.9.34.1,65.9,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Scenic and sightseeing transportation [487],"Total, all enterprises",Percent,239,units,0,v1001761495,1.9.34.1,83,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Support activities for transportation [488],"Total, all enterprises",Percent,239,units,0,v1001761504,1.9.35.1,76,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Support activities for transportation [488],"Total, all enterprises",Percent,239,units,0,v1001761504,1.9.35.1,74.8,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Postal service [491],"Total, all enterprises",Percent,239,units,0,v1001761513,1.9.36.1,78.8,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Postal service [491],"Total, all enterprises",Percent,239,units,0,v1001761513,1.9.36.1,74.2,D,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Couriers and messengers [492],"Total, all enterprises",Percent,239,units,0,v1001761522,1.9.37.1,74.1,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Couriers and messengers [492],"Total, all enterprises",Percent,239,units,0,v1001761522,1.9.37.1,88.8,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Warehousing and storage [493],"Total, all enterprises",Percent,239,units,0,v1001761531,1.9.38.1,68.4,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Warehousing and storage [493],"Total, all enterprises",Percent,239,units,0,v1001761531,1.9.38.1,68.1,C,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Information and cultural industries [51],"Total, all enterprises",Percent,239,units,0,v1001761540,1.9.39.1,63.3,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Information and cultural industries [51],"Total, all enterprises",Percent,239,units,0,v1001761540,1.9.39.1,85.2,C,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Publishing industries [511],"Total, all enterprises",Percent,239,units,0,v1001761549,1.9.40.1,60.4,E,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Publishing industries [511],"Total, all enterprises",Percent,239,units,0,v1001761549,1.9.40.1,94.7,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Motion picture and sound recording industries [512],"Total, all enterprises",Percent,239,units,0,v1001761558,1.9.41.1,,F,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Motion picture and sound recording industries [512],"Total, all enterprises",Percent,239,units,0,v1001761558,1.9.41.1,,F,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Broadcasting [515],"Total, all enterprises",Percent,239,units,0,v1001761567,1.9.42.1,,F,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Broadcasting [515],"Total, all enterprises",Percent,239,units,0,v1001761567,1.9.42.1,99.6,A,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Telecommunications [517],"Total, all enterprises",Percent,239,units,0,v1001761576,1.9.43.1,,F,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Telecommunications [517],"Total, all enterprises",Percent,239,units,0,v1001761576,1.9.43.1,,F,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Internet service providers, web search portals, and data processing services [518]","Total, all enterprises",Percent,239,units,0,v1001761585,1.9.44.1,,F,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Internet service providers, web search portals, and data processing services [518]","Total, all enterprises",Percent,239,units,0,v1001761585,1.9.44.1,95.9,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Other information services [519],"Total, all enterprises",Percent,239,units,0,v1001761594,1.9.45.1,,F,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Other information services [519],"Total, all enterprises",Percent,239,units,0,v1001761594,1.9.45.1,91.4,D,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Finance and insurance [52],"Total, all enterprises",Percent,239,units,0,v1001761603,1.9.46.1,71.8,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Finance and insurance [52],"Total, all enterprises",Percent,239,units,0,v1001761603,1.9.46.1,76.1,A,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Monetary authorities-central bank, and credit intermediation and related activitivies [521-522]","Total, all enterprises",Percent,239,units,0,v1001761612,1.9.47.1,64.2,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Monetary authorities-central bank, and credit intermediation and related activitivies [521-522]","Total, all enterprises",Percent,239,units,0,v1001761612,1.9.47.1,64.4,C,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Securities, commodity contracts, and other financial investment and related activities [523]","Total, all enterprises",Percent,239,units,0,v1001761621,1.9.48.1,72.1,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Securities, commodity contracts, and other financial investment and related activities [523]","Total, all enterprises",Percent,239,units,0,v1001761621,1.9.48.1,87.2,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Insurance carriers and related activities [524],"Total, all enterprises",Percent,239,units,0,v1001761630,1.9.49.1,75.8,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Insurance carriers and related activities [524],"Total, all enterprises",Percent,239,units,0,v1001761630,1.9.49.1,76.1,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Funds and other financial vehicles [526],"Total, all enterprises",Percent,239,units,0,v1001761639,1.9.50.1,80.7,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Funds and other financial vehicles [526],"Total, all enterprises",Percent,239,units,0,v1001761639,1.9.50.1,68.9,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Real estate and rental and leasing [53],"Total, all enterprises",Percent,239,units,0,v1001761648,1.9.51.1,72,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Real estate and rental and leasing [53],"Total, all enterprises",Percent,239,units,0,v1001761648,1.9.51.1,77.1,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Professional, scientific and technical services [54]","Total, all enterprises",Percent,239,units,0,v1001761657,1.9.52.1,67.9,A,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Professional, scientific and technical services [54]","Total, all enterprises",Percent,239,units,0,v1001761657,1.9.52.1,76,A,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Legal services [5411],"Total, all enterprises",Percent,239,units,0,v1001761666,1.9.53.1,67.2,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Legal services [5411],"Total, all enterprises",Percent,239,units,0,v1001761666,1.9.53.1,81.3,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Accounting, tax preparation, bookkeeping and payroll services [5412]","Total, all enterprises",Percent,239,units,0,v1001761675,1.9.54.1,72.4,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Accounting, tax preparation, bookkeeping and payroll services [5412]","Total, all enterprises",Percent,239,units,0,v1001761675,1.9.54.1,83.6,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Architectural, engineering and related services [5413]","Total, all enterprises",Percent,239,units,0,v1001761684,1.9.55.1,63.6,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Architectural, engineering and related services [5413]","Total, all enterprises",Percent,239,units,0,v1001761684,1.9.55.1,66.7,C,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Specialized design services [5414],"Total, all enterprises",Percent,239,units,0,v1001761693,1.9.56.1,70.3,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Specialized design services [5414],"Total, all enterprises",Percent,239,units,0,v1001761693,1.9.56.1,79,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Computer systems design and related services [5415],"Total, all enterprises",Percent,239,units,0,v1001761702,1.9.57.1,63.6,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Computer systems design and related services [5415],"Total, all enterprises",Percent,239,units,0,v1001761702,1.9.57.1,74.9,C,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Management, scientific and technical consulting services [5416]","Total, all enterprises",Percent,239,units,0,v1001761711,1.9.58.1,67.5,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Management, scientific and technical consulting services [5416]","Total, all enterprises",Percent,239,units,0,v1001761711,1.9.58.1,73,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Scientific research and development services [5417],"Total, all enterprises",Percent,239,units,0,v1001761720,1.9.59.1,73.6,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Scientific research and development services [5417],"Total, all enterprises",Percent,239,units,0,v1001761720,1.9.59.1,67.5,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Advertising and related services [5418],"Total, all enterprises",Percent,239,units,0,v1001761729,1.9.60.1,60.6,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Advertising and related services [5418],"Total, all enterprises",Percent,239,units,0,v1001761729,1.9.60.1,77.7,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Other professional, scientific and technical services [5419]","Total, all enterprises",Percent,239,units,0,v1001761738,1.9.61.1,79.5,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Other professional, scientific and technical services [5419]","Total, all enterprises",Percent,239,units,0,v1001761738,1.9.61.1,85.4,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Management of companies and enterprises [55],"Total, all enterprises",Percent,239,units,0,v1001761747,1.9.62.1,69.7,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Management of companies and enterprises [55],"Total, all enterprises",Percent,239,units,0,v1001761747,1.9.62.1,70.9,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Administrative and support, waste management and remediation services [56]","Total, all enterprises",Percent,239,units,0,v1001761756,1.9.63.1,81.5,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Administrative and support, waste management and remediation services [56]","Total, all enterprises",Percent,239,units,0,v1001761756,1.9.63.1,89.9,A,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Educational services [61],"Total, all enterprises",Percent,239,units,0,v1001761765,1.9.64.1,78.9,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Educational services [61],"Total, all enterprises",Percent,239,units,0,v1001761765,1.9.64.1,80.2,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1001761774,1.9.65.1,71.2,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Elementary and secondary schools [6111],"Total, all enterprises",Percent,239,units,0,v1001761774,1.9.65.1,78.2,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Community colleges and C.E.G.E.P.s [6112],"Total, all enterprises",Percent,239,units,0,v1001761783,1.9.66.1,69.9,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Community colleges and C.E.G.E.P.s [6112],"Total, all enterprises",Percent,239,units,0,v1001761783,1.9.66.1,68.1,C,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Universities [6113],"Total, all enterprises",Percent,239,units,0,v1001761792,1.9.67.1,63.4,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Universities [6113],"Total, all enterprises",Percent,239,units,0,v1001761792,1.9.67.1,70,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Business schools and computer and management training [6114],"Total, all enterprises",Percent,239,units,0,v1001761801,1.9.68.1,62.1,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Business schools and computer and management training [6114],"Total, all enterprises",Percent,239,units,0,v1001761801,1.9.68.1,81.2,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Technical and trade schools [6115],"Total, all enterprises",Percent,239,units,0,v1001761810,1.9.69.1,80.4,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Technical and trade schools [6115],"Total, all enterprises",Percent,239,units,0,v1001761810,1.9.69.1,75.8,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Other schools and instruction [6116],"Total, all enterprises",Percent,239,units,0,v1001761819,1.9.70.1,84,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Other schools and instruction [6116],"Total, all enterprises",Percent,239,units,0,v1001761819,1.9.70.1,81.8,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Educational support services [6117],"Total, all enterprises",Percent,239,units,0,v1001761828,1.9.71.1,78.7,C,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Educational support services [6117],"Total, all enterprises",Percent,239,units,0,v1001761828,1.9.71.1,84.1,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Health care and social assistance [62],"Total, all enterprises",Percent,239,units,0,v1001761837,1.9.72.1,86.3,A,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Health care and social assistance [62],"Total, all enterprises",Percent,239,units,0,v1001761837,1.9.72.1,89.6,A,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Ambulatory health care services [621],"Total, all enterprises",Percent,239,units,0,v1001761846,1.9.73.1,87.7,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Ambulatory health care services [621],"Total, all enterprises",Percent,239,units,0,v1001761846,1.9.73.1,90,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1001761855,1.9.74.1,63.3,D,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Hospitals [622],"Total, all enterprises",Percent,239,units,0,v1001761855,1.9.74.1,89.1,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Nursing and residential care facilities [623],"Total, all enterprises",Percent,239,units,0,v1001761864,1.9.75.1,79.1,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Nursing and residential care facilities [623],"Total, all enterprises",Percent,239,units,0,v1001761864,1.9.75.1,89.1,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Social assistance [624],"Total, all enterprises",Percent,239,units,0,v1001761873,1.9.76.1,87.2,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Social assistance [624],"Total, all enterprises",Percent,239,units,0,v1001761873,1.9.76.1,89.3,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Arts, entertainment and recreation [71]","Total, all enterprises",Percent,239,units,0,v1001761882,1.9.77.1,84.9,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,"Arts, entertainment and recreation [71]","Total, all enterprises",Percent,239,units,0,v1001761882,1.9.77.1,86.3,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Accommodation and food services [72],"Total, all enterprises",Percent,239,units,0,v1001761891,1.9.78.1,90.6,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Accommodation and food services [72],"Total, all enterprises",Percent,239,units,0,v1001761891,1.9.78.1,86.9,B,,,1
+2019,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Other services (except public administration) [81],"Total, all enterprises",Percent,239,units,0,v1001761900,1.9.79.1,74,B,,,1
+2021,Canada,2016A000011124,Business was not impacted by any cyber security incidents,Other services (except public administration) [81],"Total, all enterprises",Percent,239,units,0,v1001761900,1.9.79.1,80.7,B,,,1
