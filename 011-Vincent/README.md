@@ -8,14 +8,13 @@ Vincent has created some of the most creative notebooks we've seen in the marimo
 One of his standout contributions is an interactive exploration of Principal Component Analysis (PCA), which transforms what could be a dry mathematical concept into an engaging hands-on experience. Another notable creation is his implementation of seam carving, inspired by 3Blue1Brown, which demonstrates how complex algorithms can be explained through interactive visualization.
 
 Check out these remarkable notebooks:
-- Interactive Matrices: [https://marimo.io/p/@marimo/interactive-matrices](https://marimo.io/p/@marimo/interactive-matrices)
-[![Open with marimo](https://marimo.io/shield.svg)](https://marimo.io/p/@marimo/interactive-matrices)
+- Interactive Matrices: [![Open with marimo](https://marimo.io/shield.svg)](https://marimo.io/p/@marimo/interactive-matrices)
 
 - Seam Carving Implementation: [https://huggingface.co/spaces/marimo-team/seam-carving](https://huggingface.co/spaces/marimo-team/seam-carving)
 
 You can run these notebooks locally using:
 ```shell
-uvx marimo run --sandbox notebook.py
+uvx marimo run --sandbox <notebook-name>.py
 ```
 if you have `uv` installed, or
 ```shell
