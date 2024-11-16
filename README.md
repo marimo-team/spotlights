@@ -169,7 +169,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
   </tr>
   <tr>
     <td>
-      <a href="009-water-systems/">Stanford WE3 Lab</a>
+      <a href="009-WE3-Lab/">Stanford WE3 Lab</a>:]</a>
     </td>
     <td>
       <a href="010-Mustjaab/">Mustjaab</a>
