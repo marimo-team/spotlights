@@ -21,71 +21,64 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 ## Examples
 
-<details>
-<summary><h3>August 2024</h3></summary>
-
+### November 2024
 <table border="0">
   <tr>
-    <td width="25%">
-      <a target="_blank" href="https://x.com/trevmanz/status/1818664678609858802">
-        <img src="assets/001-anywidget.gif" style="max-height: 150px; width: auto; display: block" />
-      </a>
-    </td>
-    <td width="25%">
-      <a target="_blank" href="https://marimo.io/p/@gvarnavides/stem-probes">
-        <img src="assets/002-stem-probes.png" style="max-height: 150px; width: auto; display: block" />
-      </a>
-    </td>
-    <td width="25%">
-      <a target="_blank" href="https://signal-decomp-tutorial.org/">
-        <img src="assets/003-bennet-meyers.png" style="max-height: 150px; width: auto; display: block" />
-      </a>
-    </td>
-    <td width="25%">
-      <a target="_blank" href="https://xdsl.dev/index">
-        <img src="assets/004-xdsl.png" style="max-height: 150px; width: auto; display: block"/>
+    <td width="100%">
+      <a target="_blank" href="https://marimo.io/p/@marimo/interactive-matrices">
+        <img src="./assets/011-Vincent.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="001-anywidget/">anywidget</a>
-    </td>
-    <td>
-      <a href="002-stem-probes/">Georgios Varnavides</a>
-    </td>
-    <td>
-      <a href="003-bennet-meyers/">Bennet Meyers</a>
-    </td>
-    <td>
-      <a href="004-xdsl/">xDSL</a>
+      <a href="011-Vincent/">Vincent Warmerdam</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a target="_blank" href="https://marimo.io/p/@spotlights/001-anywidgets-trevor-manz">
-        <img src="https://marimo.io/shield.svg"/>
-      </a>
-    </td>
-    <td>
-      <a target="_blank" href="https://marimo.io/p/@gvarnavides/stem-probes">
-        <img src="https://marimo.io/shield.svg"/>
-      </a>
-    </td>
-    <td>
-      <a target="_blank" href="https://marimo.io/@public/signal-decomposition">
-        <img src="https://marimo.io/shield.svg"/>
-      </a>
-    </td>
-    <td>
-      <a target="_blank" href="https://marimo.io/p/@spotlights/004-xdsl">
+      <a target="_blank" href="https://marimo.io/p/@marimo/interactive-matrices">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
   </tr>
 </table>
 
-</details>
+### October 2024
+<table border="0">
+  <tr>
+    <td width="50%">
+      <a target="_blank" href="https://lvof.we3lab.tech/">
+        <img src="./assets/009-WE3-Lab.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="50%">
+      <a target="_blank" href="https://marimo.io/p/@muhammad-mustjaab/analysis-of-wait-times-in-canadian-hospitals-critical-procedures">
+        <img src="./assets/010-Mustjaab.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="009-WE3-Lab/">Stanford WE3 Lab</a>
+    </td>
+    <td>
+      <a href="010-Mustjaab/">Mustjaab</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://lvof.we3lab.tech/">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://marimo.io/p/@muhammad-mustjaab/analysis-of-wait-times-in-canadian-hospitals-critical-procedures">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><h3>September 2024</h3></summary>
@@ -153,41 +146,71 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 </details>
 
-### October 2024
+<details>
+<summary><h3>August 2024</h3></summary>
+
 <table border="0">
   <tr>
-    <td width="50%">
-      <a target="_blank" href="https://lvof.we3lab.tech/">
-        <img src="./assets/009-WE3-Lab.png" style="max-height: 150px; width: auto; display: block" />
+    <td width="25%">
+      <a target="_blank" href="https://x.com/trevmanz/status/1818664678609858802">
+        <img src="assets/001-anywidget.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td width="50%">
-      <a target="_blank" href="https://marimo.io/p/@muhammad-mustjaab/analysis-of-wait-times-in-canadian-hospitals-critical-procedures">
-        <img src="./assets/010-Mustjaab.png" style="max-height: 150px; width: auto; display: block" />
+    <td width="25%">
+      <a target="_blank" href="https://marimo.io/p/@gvarnavides/stem-probes">
+        <img src="assets/002-stem-probes.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="25%">
+      <a target="_blank" href="https://signal-decomp-tutorial.org/">
+        <img src="assets/003-bennet-meyers.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="25%">
+      <a target="_blank" href="https://xdsl.dev/index">
+        <img src="assets/004-xdsl.png" style="max-height: 150px; width: auto; display: block"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="009-WE3-Lab/">Stanford WE3 Lab</a>:]</a>
+      <a href="001-anywidget/">anywidget</a>
     </td>
     <td>
-      <a href="010-Mustjaab/">Mustjaab</a>
+      <a href="002-stem-probes/">Georgios Varnavides</a>
+    </td>
+    <td>
+      <a href="003-bennet-meyers/">Bennet Meyers</a>
+    </td>
+    <td>
+      <a href="004-xdsl/">xDSL</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a target="_blank" href="https://lvof.we3lab.tech/">
+      <a target="_blank" href="https://marimo.io/p/@spotlights/001-anywidgets-trevor-manz">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
     <td>
-      <a target="_blank" href="https://marimo.io/p/@muhammad-mustjaab/analysis-of-wait-times-in-canadian-hospitals-critical-procedures">
+      <a target="_blank" href="https://marimo.io/p/@gvarnavides/stem-probes">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://marimo.io/@public/signal-decomposition">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://marimo.io/p/@spotlights/004-xdsl">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
   </tr>
 </table>
+
+</details>
 
 1. [anywidget](001-anywidget/) is a Python library for making interoperable
    widgets; use anywidget to make custom UI elements for marimo.
