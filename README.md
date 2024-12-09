@@ -237,6 +237,6 @@ We love to share our community spotlights across various platforms! You can find
 
 - LinkedIn: [marimo LinkedIn](https://www.linkedin.com/company/marimo-io/)
 - Twitter: [@marimo_io](https://x.com/marimo_io)
-- Discord: [marimo community](https://discord.gg/QdpFxJWhyt?ref=spotlights)
+- Discord: [marimo community](https://marimo.io/discord?ref=spotlights)
 
 Feel free to like, share, and comment on these posts to help spread the word about these amazing projects and contributors!
