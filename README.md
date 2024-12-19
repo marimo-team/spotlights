@@ -21,71 +21,64 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 ## Examples
 
-<details>
-<summary><h3>August 2024</h3></summary>
-
+### November 2024
 <table border="0">
   <tr>
-    <td width="25%">
-      <a target="_blank" href="https://x.com/trevmanz/status/1818664678609858802">
-        <img src="assets/001-anywidget.gif" style="max-height: 150px; width: auto; display: block" />
-      </a>
-    </td>
-    <td width="25%">
-      <a target="_blank" href="https://marimo.io/p/@gvarnavides/stem-probes">
-        <img src="assets/002-stem-probes.png" style="max-height: 150px; width: auto; display: block" />
-      </a>
-    </td>
-    <td width="25%">
-      <a target="_blank" href="https://signal-decomp-tutorial.org/">
-        <img src="assets/003-bennet-meyers.png" style="max-height: 150px; width: auto; display: block" />
-      </a>
-    </td>
-    <td width="25%">
-      <a target="_blank" href="https://xdsl.dev/index">
-        <img src="assets/004-xdsl.png" style="max-height: 150px; width: auto; display: block"/>
+    <td width="100%">
+      <a target="_blank" href="https://marimo.io/p/@marimo/interactive-matrices">
+        <img src="./assets/011-Vincent.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="001-anywidget/">anywidget</a>
-    </td>
-    <td>
-      <a href="002-stem-probes/">Georgios Varnavides</a>
-    </td>
-    <td>
-      <a href="003-bennet-meyers/">Bennet Meyers</a>
-    </td>
-    <td>
-      <a href="004-xdsl/">xDSL</a>
+      <a href="011-Vincent/">Vincent Warmerdam</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a target="_blank" href="https://marimo.io/p/@spotlights/001-anywidgets-trevor-manz">
-        <img src="https://marimo.io/shield.svg"/>
-      </a>
-    </td>
-    <td>
-      <a target="_blank" href="https://marimo.io/p/@gvarnavides/stem-probes">
-        <img src="https://marimo.io/shield.svg"/>
-      </a>
-    </td>
-    <td>
-      <a target="_blank" href="https://marimo.io/@public/signal-decomposition">
-        <img src="https://marimo.io/shield.svg"/>
-      </a>
-    </td>
-    <td>
-      <a target="_blank" href="https://marimo.io/p/@spotlights/004-xdsl">
+      <a target="_blank" href="https://marimo.io/p/@marimo/interactive-matrices">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
   </tr>
 </table>
 
-</details>
+### October 2024
+<table border="0">
+  <tr>
+    <td width="50%">
+      <a target="_blank" href="https://lvof.we3lab.tech/">
+        <img src="./assets/009-WE3-Lab.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="50%">
+      <a target="_blank" href="https://marimo.io/p/@muhammad-mustjaab/analysis-of-wait-times-in-canadian-hospitals-critical-procedures">
+        <img src="./assets/010-Mustjaab.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="009-WE3-Lab/">Stanford WE3 Lab</a>
+    </td>
+    <td>
+      <a href="010-Mustjaab/">Mustjaab</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://lvof.we3lab.tech/">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://marimo.io/p/@muhammad-mustjaab/analysis-of-wait-times-in-canadian-hospitals-critical-procedures">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><h3>September 2024</h3></summary>
@@ -153,41 +146,71 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 </details>
 
-### October 2024
+<details>
+<summary><h3>August 2024</h3></summary>
+
 <table border="0">
   <tr>
-    <td width="50%">
-      <a target="_blank" href="https://lvof.we3lab.tech/">
-        <img src="./assets/009-WE3-Lab.png" style="max-height: 150px; width: auto; display: block" />
+    <td width="25%">
+      <a target="_blank" href="https://x.com/trevmanz/status/1818664678609858802">
+        <img src="assets/001-anywidget.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td width="50%">
-      <a target="_blank" href="https://marimo.io/p/@muhammad-mustjaab/analysis-of-wait-times-in-canadian-hospitals-critical-procedures">
-        <img src="./assets/010-Mustjaab.png" style="max-height: 150px; width: auto; display: block" />
+    <td width="25%">
+      <a target="_blank" href="https://marimo.io/p/@gvarnavides/stem-probes">
+        <img src="assets/002-stem-probes.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="25%">
+      <a target="_blank" href="https://signal-decomp-tutorial.org/">
+        <img src="assets/003-bennet-meyers.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="25%">
+      <a target="_blank" href="https://xdsl.dev/index">
+        <img src="assets/004-xdsl.png" style="max-height: 150px; width: auto; display: block"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="009-water-systems/">Stanford WE3 Lab</a>
+      <a href="001-anywidget/">anywidget</a>
     </td>
     <td>
-      <a href="010-Mustjaab/">Mustjaab</a>
+      <a href="002-stem-probes/">Georgios Varnavides</a>
+    </td>
+    <td>
+      <a href="003-bennet-meyers/">Bennet Meyers</a>
+    </td>
+    <td>
+      <a href="004-xdsl/">xDSL</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a target="_blank" href="https://lvof.we3lab.tech/">
+      <a target="_blank" href="https://marimo.io/p/@spotlights/001-anywidgets-trevor-manz">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
     <td>
-      <a target="_blank" href="https://marimo.io/p/@muhammad-mustjaab/analysis-of-wait-times-in-canadian-hospitals-critical-procedures">
+      <a target="_blank" href="https://marimo.io/p/@gvarnavides/stem-probes">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://marimo.io/@public/signal-decomposition">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://marimo.io/p/@spotlights/004-xdsl">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
   </tr>
 </table>
+
+</details>
 
 1. [anywidget](001-anywidget/) is a Python library for making interoperable
    widgets; use anywidget to make custom UI elements for marimo.
@@ -203,6 +226,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 8. [marimo-tutorials](008-marimo-tutorials/) A comprehensive collection of tutorials covering various aspects of marimo, created by Haleshot. These tutorials serve as an excellent resource for both beginners and advanced users looking to explore the full potential of marimo.
 9. [Stanford WE3 Lab](009-water-systems/) The Stanford WE3 Lab team, including [Akshay Rao](https://x.com/raodoesresearch) and [Fletch](https://github.com/fletchapin), presents a study on "[Valuing Energy Flexibility from Water Systems](https://www.nature.com/articles/s44221-024-00316-4)." Their marimo notebook visualizes methods for efficient operation of water systems in a decarbonizing grid, showcasing the application of data science in sustainable infrastructure management.
 10. [Mustjaab](010-Mustjaab/) Mustjaab is an enthusiastic contributor to the marimo community, sharing numerous fascinating notebooks including analyses of greenhouse gas emissions, exploration of Perplexity using `mo.ui.chat`, and various other insightful and interactive notebooks.
+11. [Vincent Warmerdam](011-Vincent/) Vincent Warmerdam is a creative developer known for crafting innovative and educational notebooks that make complex concepts accessible and engaging.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
@@ -213,6 +237,6 @@ We love to share our community spotlights across various platforms! You can find
 
 - LinkedIn: [marimo LinkedIn](https://www.linkedin.com/company/marimo-io/)
 - Twitter: [@marimo_io](https://x.com/marimo_io)
-- Discord: [marimo community](https://discord.gg/JE7nhX6mD8)
+- Discord: [marimo community](https://marimo.io/discord?ref=spotlights)
 
 Feel free to like, share, and comment on these posts to help spread the word about these amazing projects and contributors!

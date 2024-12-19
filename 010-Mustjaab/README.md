@@ -47,4 +47,4 @@ This spotlight has been featured on our social media platforms. Join the convers
 - LinkedIn Post: [Link](https://www.linkedin.com/posts/marimo-io_join-the-marimo-discord-server-activity-7250193061899554816-u_ct?utm_source=share&utm_medium=member_desktop)
 - Discord Discussion: [Join our Discord](https://discord.gg/JE7nhX6mD8)
 
-We encourage you to engage with these posts, share your thoughts, and help us celebrate this amazing contribution to the Marimo community!
+We encourage you to engage with these posts, share your thoughts, and help us celebrate this amazing contribution to the marimo community!
