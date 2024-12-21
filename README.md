@@ -21,7 +21,36 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 ## Examples
 
-### November 2024
+<details open>
+<summary><h3>December 2024</h3></summary>
+
+<table border="0">
+  <tr>
+    <td width="100%">
+      <a target="_blank" href="https://github.com/metaboulie/marimo-themes">
+        <img src="./assets/012-eugene.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="012-eugene/">Eugene</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://github.com/metaboulie/marimo-themes/tree/main/tests">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+<summary><h3>November 2024</h3></summary>
+
 <table border="0">
   <tr>
     <td width="100%">
@@ -44,7 +73,11 @@ To edit the notebook source code, replace `run` with `edit` in the above command
   </tr>
 </table>
 
-### October 2024
+</details>
+
+<details>
+<summary><h3>October 2024</h3></summary>
+
 <table border="0">
   <tr>
     <td width="50%">
@@ -79,6 +112,8 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     </td>
   </tr>
 </table>
+
+</details>
 
 <details>
 <summary><h3>September 2024</h3></summary>
