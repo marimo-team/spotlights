@@ -1,4 +1,4 @@
-# Haleshot: Marimo Ambassador and Community Contributor
+# Haleshot: marimo Ambassador and Community Contributor
 
 _September 20, 2024_
 

@@ -21,7 +21,36 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 ## Examples
 
-### November 2024
+<details open>
+<summary><h3>December 2024</h3></summary>
+
+<table border="0">
+  <tr>
+    <td width="100%">
+      <a target="_blank" href="https://github.com/metaboulie/marimo-themes">
+        <img src="./assets/012-eugene.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="012-eugene/">Eugene</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://github.com/metaboulie/marimo-themes/tree/main/tests">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+<summary><h3>November 2024</h3></summary>
+
 <table border="0">
   <tr>
     <td width="100%">
@@ -44,7 +73,11 @@ To edit the notebook source code, replace `run` with `edit` in the above command
   </tr>
 </table>
 
-### October 2024
+</details>
+
+<details>
+<summary><h3>October 2024</h3></summary>
+
 <table border="0">
   <tr>
     <td width="50%">
@@ -79,6 +112,8 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     </td>
   </tr>
 </table>
+
+</details>
 
 <details>
 <summary><h3>September 2024</h3></summary>
@@ -227,6 +262,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 9. [Stanford WE3 Lab](009-water-systems/) The Stanford WE3 Lab team, including [Akshay Rao](https://x.com/raodoesresearch) and [Fletch](https://github.com/fletchapin), presents a study on "[Valuing Energy Flexibility from Water Systems](https://www.nature.com/articles/s44221-024-00316-4)." Their marimo notebook visualizes methods for efficient operation of water systems in a decarbonizing grid, showcasing the application of data science in sustainable infrastructure management.
 10. [Mustjaab](010-Mustjaab/) Mustjaab is an enthusiastic contributor to the marimo community, sharing numerous fascinating notebooks including analyses of greenhouse gas emissions, exploration of Perplexity using `mo.ui.chat`, and various other insightful and interactive notebooks.
 11. [Vincent Warmerdam](011-Vincent/) Vincent Warmerdam is a creative developer known for crafting innovative and educational notebooks that make complex concepts accessible and engaging.
+12. [Eugene](012-eugene/) Eugene is a significant contributor to the marimo ecosystem who created two notable extension libraries: marimo-themes for custom theming capabilities and mowidget, a collection of custom widgets including array viewers, color matrices, and productivity tools.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
