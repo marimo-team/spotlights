@@ -12,5 +12,6 @@ Check out Paul's example notebooks, including one that prunes your Slack and giv
 ## Spotlight Promotion
 This spotlight has been featured on our social media platforms. Join the conversation:
 - Twitter Post: [Link](https://x.com/marimo_io/status/1877499203485626495)
+- LinkedIn Post: [Link](https://www.linkedin.com/posts/marimo-io_spotlight-on-paul-pereyda-karayan-paul-activity-7283265534060572672-FXLv?utm_source=share&utm_medium=member_desktop)
 
 We encourage you to engage with these posts, share your thoughts, and help us celebrate these amazing contributions to the marimo community!
