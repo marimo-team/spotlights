@@ -22,6 +22,25 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 ## Examples
 
 <details open>
+<summary><h3>January 2025</h3></summary>
+
+<table border="0">
+  <tr>
+    <td width="100%">
+      <a target="_blank" href="https://paulkarayan.com/blog/marimo-cli-gui-notebook-and-microapps/">
+        <img src="./assets/013-paul-karayan.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="013-paul-karayan/">Paul Karayan</a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
 <summary><h3>December 2024</h3></summary>
 
 <table border="0">
@@ -263,6 +282,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 10. [Mustjaab](010-Mustjaab/) Mustjaab is an enthusiastic contributor to the marimo community, sharing numerous fascinating notebooks including analyses of greenhouse gas emissions, exploration of Perplexity using `mo.ui.chat`, and various other insightful and interactive notebooks.
 11. [Vincent Warmerdam](011-Vincent/) Vincent Warmerdam is a creative developer known for crafting innovative and educational notebooks that make complex concepts accessible and engaging.
 12. [Eugene](012-eugene/) Eugene is a significant contributor to the marimo ecosystem who created two notable extension libraries: marimo-themes for custom theming capabilities and mowidget, a collection of custom widgets including array viewers, color matrices, and productivity tools.
+13. [Paul Karayan](013-paul-karayan/) Paul's blogs highlight one of marimo's biggest strengths — marimo programs are reusable in 3 ways: as interactive notebooks, as web apps, and as Python scripts. Check out his example notebooks, including one that prunes your Slack and gives you zen.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
