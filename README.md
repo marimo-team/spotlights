@@ -26,7 +26,12 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 <table border="0">
   <tr>
-    <td width="100%">
+    <td width="50%">
+      <a target="_blank" href="https://rparkr.github.io/polars-intro/">
+        <img src="./assets/014-ryan-parker.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="50%">
       <a target="_blank" href="https://paulkarayan.com/blog/marimo-cli-gui-notebook-and-microapps/">
         <img src="./assets/013-paul-karayan.png" style="max-height: 150px; width: auto; display: block" />
       </a>
@@ -34,7 +39,22 @@ To edit the notebook source code, replace `run` with `edit` in the above command
   </tr>
   <tr>
     <td>
+      <a href="014-ryan-parker/">Ryan Parker</a>
+    </td>
+    <td>
       <a href="013-paul-karayan/">Paul Karayan</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://rparkr.github.io/polars-intro/">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://paulkarayan.com/blog/marimo-cli-gui-notebook-and-microapps/">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -283,6 +303,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 11. [Vincent Warmerdam](011-Vincent/) Vincent Warmerdam is a creative developer known for crafting innovative and educational notebooks that make complex concepts accessible and engaging.
 12. [Eugene](012-eugene/) Eugene is a significant contributor to the marimo ecosystem who created two notable extension libraries: marimo-themes for custom theming capabilities and mowidget, a collection of custom widgets including array viewers, color matrices, and productivity tools.
 13. [Paul Karayan](013-paul-karayan/) Paul's blogs highlight one of marimo's biggest strengths — marimo programs are reusable in 3 ways: as interactive notebooks, as web apps, and as Python scripts. Check out his example notebooks, including one that prunes your Slack and gives you zen.
+14. [Ryan Parker](014-ryan-parker/) Ryan created an interactive tutorial showcasing marimo's unique capabilities with interactive table rendering, real-time search and filtering, and efficient pagination through large datasets.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
