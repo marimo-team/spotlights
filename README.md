@@ -22,6 +22,32 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 ## Examples
 
 <details open>
+<summary><h3>February 2025</h3></summary>
+
+<table border="0">
+  <tr>
+    <td width="100%">
+      <a target="_blank" href="https://github.com/tschm/cradle">
+        <img src="./assets/015-cradle.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="015-cradle/">cradle</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://github.com/tschm/cradle">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
 <summary><h3>January 2025</h3></summary>
 
 <table border="0">
@@ -304,6 +330,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 12. [Eugene](012-eugene/) Eugene is a significant contributor to the marimo ecosystem who created two notable extension libraries: marimo-themes for custom theming capabilities and mowidget, a collection of custom widgets including array viewers, color matrices, and productivity tools.
 13. [Paul Karayan](013-paul-karayan/) Paul's blogs highlight one of marimo's biggest strengths — marimo programs are reusable in 3 ways: as interactive notebooks, as web apps, and as Python scripts. Check out his example notebooks, including one that prunes your Slack and gives you zen.
 14. [Ryan Parker](014-ryan-parker/) Ryan created an interactive tutorial showcasing marimo's unique capabilities with interactive table rendering, real-time search and filtering, and efficient pagination through large datasets.
+15. [cradle](015-cradle/) A GitHub project creator similar to [cookiecutter](https://github.com/cookiecutter/cookiecutter) but with an emphasis on quant work and data science. It leverages marimo notebooks for experimentation, taking advantage of marimo's reproducibility and reusability as both scripts and apps.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
