@@ -26,9 +26,14 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 <table border="0">
   <tr>
-    <td width="100%">
+    <td width="50%">
       <a target="_blank" href="https://github.com/tschm/cradle">
         <img src="./assets/015-cradle.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="50%">
+      <a target="_blank" href="https://towardsdatascience.com/publish-interactive-data-visualizations-for-free-with-python-and-marimo/">
+        <img src="./assets/016-sam-minot.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
   </tr>
@@ -36,10 +41,18 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     <td>
       <a href="015-cradle/">cradle</a>
     </td>
+    <td>
+      <a href="016-sam-minot/">Sam Minot</a>
+    </td>
   </tr>
   <tr>
     <td>
       <a target="_blank" href="https://github.com/tschm/cradle">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://fredhutch.github.io/marimo-publication/">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
@@ -331,6 +344,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 13. [Paul Karayan](013-paul-karayan/) Paul's blogs highlight one of marimo's biggest strengths — marimo programs are reusable in 3 ways: as interactive notebooks, as web apps, and as Python scripts. Check out his example notebooks, including one that prunes your Slack and gives you zen.
 14. [Ryan Parker](014-ryan-parker/) Ryan created an interactive tutorial showcasing marimo's unique capabilities with interactive table rendering, real-time search and filtering, and efficient pagination through large datasets.
 15. [cradle](015-cradle/) A GitHub project creator similar to [cookiecutter](https://github.com/cookiecutter/cookiecutter) but with an emphasis on quant work and data science. It leverages marimo notebooks for experimentation, taking advantage of marimo's reproducibility and reusability as both scripts and apps.
+16. [Sam Minot](016-sam-minot/) Sam demonstrates how to create engaging data stories with interactive visualizations using marimo, sharing his expertise through a comprehensive tutorial in Towards Data Science that shows how to publish and share interactive data visualizations for free.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
