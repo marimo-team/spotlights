@@ -22,6 +22,32 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 ## Examples
 
 <details open>
+<summary><h3>March 2025</h3></summary>
+
+<table border="0">
+  <tr>
+    <td width="100%">
+      <a target="_blank" href="https://github.com/arthrod/prompting">
+        <img src="./assets/017-arthur.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="017-arthur/">Arthur S.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://github.com/arthrod/prompting">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details open>
 <summary><h3>February 2025</h3></summary>
 
 <table border="0">
@@ -345,6 +371,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 14. [Ryan Parker](014-ryan-parker/) Ryan created an interactive tutorial showcasing marimo's unique capabilities with interactive table rendering, real-time search and filtering, and efficient pagination through large datasets.
 15. [cradle](015-cradle/) A GitHub project creator similar to [cookiecutter](https://github.com/cookiecutter/cookiecutter) but with an emphasis on quant work and data science. It leverages marimo notebooks for experimentation, taking advantage of marimo's reproducibility and reusability as both scripts and apps.
 16. [Sam Minot](016-sam-minot/) Sam demonstrates how to create engaging data stories with interactive visualizations using marimo, sharing his expertise through a comprehensive tutorial in Towards Data Science that shows how to publish and share interactive data visualizations for free.
+17. [Arthur S.](017-arthur/) Arthur has built an interactive application for legal professionals that showcases advanced prompting techniques for working with Large Language Models (LLMs). He has also developed a DevContainer setup for marimo to streamline development environments.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
