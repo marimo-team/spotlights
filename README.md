@@ -22,6 +22,32 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 ## Examples
 
 <details open>
+<summary><h3>April 2025</h3></summary>
+
+<table border="0">
+  <tr>
+    <td width="100%">
+      <a target="_blank" href="https://www.linkedin.com/posts/marimo-io_kafka-sql-activity-7316208137596780544-YuJi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSJzvgBkjBd85IWDyUWA6ttzq8B-NDq-Hs">
+        <img src="./assets/018-jove.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="18_Jove/">Jove</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://github.com/timeplus-io/proton/blob/develop/examples/marimo/github.py">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
 <summary><h3>March 2025</h3></summary>
 
 <table border="0">
@@ -47,7 +73,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 </table>
 </details>
 
-<details open>
+<details>
 <summary><h3>February 2025</h3></summary>
 
 <table border="0">
@@ -372,6 +398,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 15. [cradle](015-cradle/) A GitHub project creator similar to [cookiecutter](https://github.com/cookiecutter/cookiecutter) but with an emphasis on quant work and data science. It leverages marimo notebooks for experimentation, taking advantage of marimo's reproducibility and reusability as both scripts and apps.
 16. [Sam Minot](016-sam-minot/) Sam demonstrates how to create engaging data stories with interactive visualizations using marimo, sharing his expertise through a comprehensive tutorial in Towards Data Science that shows how to publish and share interactive data visualizations for free.
 17. [Arthur S.](017-arthur/) Arthur has built an interactive application for legal professionals that showcases advanced prompting techniques for working with Large Language Models (LLMs). He has also developed a DevContainer setup for marimo to streamline development environments.
+18. [Jove](18_Jove/) Jove contributed support for Timeplus, a new real-time data engine, to marimo, making it accessible from marimo's SQL cells. This integration enables users to easily query Kafka with SQL directly from marimo notebooks, providing a lightweight, reactive, and SQL-native solution.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
