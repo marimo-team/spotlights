@@ -28,7 +28,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
   <tr>
     <td width="100%">
       <a target="_blank" href="https://www.linkedin.com/posts/marimo-io_kafka-sql-activity-7316208137596780544-YuJi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSJzvgBkjBd85IWDyUWA6ttzq8B-NDq-Hs">
-        <img src="./assets/018-jove.png" style="max-height: 150px; width: auto; display: block" />
+        <img src="./assets/018-Jove.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
   </tr>
