@@ -26,14 +26,19 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 <table border="0">
   <tr>
-    <td width="50%">
+    <td width="33%">
       <a target="_blank" href="https://www.linkedin.com/posts/marimo-io_kafka-sql-activity-7316208137596780544-YuJi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSJzvgBkjBd85IWDyUWA6ttzq8B-NDq-Hs">
-        <img src="./assets/018-Jove.png" style="max-height: 150px; width: auto; display: block" />
+        <img src="assets/018-Jove.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td width="50%">
+    <td width="33%">
       <a target="_blank" href="https://smoh.github.io/akatsuki-tutorial/live">
-        <img src="./assets/019-smohspace.gif" style="max-height: 150px; width: auto; display: block" />
+        <img src="assets/019-smohspace.gif" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="33%">
+      <a target="_blank" href="https://marimo.app/?slug=e6baok">
+        <img src="assets/020-yoann-mocquin.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
   </tr>
@@ -44,6 +49,9 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     <td>
       <a href="019-smohspace/">Semyeong</a>
     </td>
+    <td>
+      <a href="020-yoann-mocquin/">Yoann Mocquin</a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -53,6 +61,11 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     </td>
     <td>
       <a target="_blank" href="https://smoh.github.io/akatsuki-tutorial/live">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://marimo.app/?slug=e6baok">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
@@ -413,6 +426,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 17. [Arthur S.](017-arthur/) Arthur has built an interactive application for legal professionals that showcases advanced prompting techniques for working with Large Language Models (LLMs). He has also developed a DevContainer setup for marimo to streamline development environments.
 18. [Jove](18_Jove/) contributed support for Timeplus, a new real-time data engine, to marimo, making it accessible from marimo's SQL cells. This integration enables users to easily query Kafka with SQL directly from marimo notebooks, providing a lightweight, reactive, and SQL-native solution.
 19. [Semyeong](019-smohspace/) created an interactive notebook that explores Venus cloud imagery from the Akatsuki mission, using xarray for analyzing atmospheric data and interactive components for examining image properties, demonstrating marimo's capabilities for scientific visualization in planetary science.
+20. [Yoann Mocquin](020-yoann-mocquin/) created an interactive notebook that demonstrates geometric MTF concepts, using ray optics and sliders to show how signal, blur, and diffraction shape image quality in real time.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
