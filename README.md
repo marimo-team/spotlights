@@ -44,7 +44,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
   </tr>
   <tr>
     <td>
-      <a href="18_Jove/">Jove</a>
+      <a href="018_Jove/">Jove</a>
     </td>
     <td>
       <a href="019-smohspace/">Semyeong</a>
@@ -424,7 +424,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 15. [cradle](015-cradle/) A GitHub project creator similar to [cookiecutter](https://github.com/cookiecutter/cookiecutter) but with an emphasis on quant work and data science. It leverages marimo notebooks for experimentation, taking advantage of marimo's reproducibility and reusability as both scripts and apps.
 16. [Sam Minot](016-sam-minot/) Sam demonstrates how to create engaging data stories with interactive visualizations using marimo, sharing his expertise through a comprehensive tutorial in Towards Data Science that shows how to publish and share interactive data visualizations for free.
 17. [Arthur S.](017-arthur/) Arthur has built an interactive application for legal professionals that showcases advanced prompting techniques for working with Large Language Models (LLMs). He has also developed a DevContainer setup for marimo to streamline development environments.
-18. [Jove](18_Jove/) contributed support for Timeplus, a new real-time data engine, to marimo, making it accessible from marimo's SQL cells. This integration enables users to easily query Kafka with SQL directly from marimo notebooks, providing a lightweight, reactive, and SQL-native solution.
+18. [Jove](018_Jove/) contributed support for Timeplus, a new real-time data engine, to marimo, making it accessible from marimo's SQL cells. This integration enables users to easily query Kafka with SQL directly from marimo notebooks, providing a lightweight, reactive, and SQL-native solution.
 19. [Semyeong](019-smohspace/) created an interactive notebook that explores Venus cloud imagery from the Akatsuki mission, using xarray for analyzing atmospheric data and interactive components for examining image properties, demonstrating marimo's capabilities for scientific visualization in planetary science.
 20. [Yoann Mocquin](020-yoann-mocquin/) created an interactive notebook that demonstrates geometric MTF concepts, using ray optics and sliders to show how signal, blur, and diffraction shape image quality in real time.
 
