@@ -403,6 +403,32 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 </details>
 
+<details open>
+<summary><h3>May 2025</h3></summary>
+
+<table border="0">
+  <tr>
+    <td width="100%">
+      <a target="_blank" href="https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/">
+        <img src="assets/021-jan-aerts.gif" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="021-jan-aerts/">Jan Aerts</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
 1. [anywidget](001-anywidget/) is a Python library for making interoperable
    widgets; use anywidget to make custom UI elements for marimo.
 2. [Georgios Varnavides](002-stem-probes/): Miller Fellow at UC Berkeley who uses marimo's WebAssembly features to create interactive science content.
@@ -427,6 +453,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 18. [Jove](018-Jove/) contributed support for Timeplus, a new real-time data engine, to marimo, making it accessible from marimo's SQL cells. This integration enables users to easily query Kafka with SQL directly from marimo notebooks, providing a lightweight, reactive, and SQL-native solution.
 19. [Semyeong](019-smohspace/) created an interactive notebook that explores Venus cloud imagery from the Akatsuki mission, using xarray for analyzing atmospheric data and interactive components for examining image properties, demonstrating marimo's capabilities for scientific visualization in planetary science.
 20. [Yoann Mocquin](020-yoann-mocquin/) created an interactive notebook that demonstrates geometric MTF concepts, using ray optics and sliders to show how signal, blur, and diffraction shape image quality in real time.
+21. [Jan Aerts](021-jan-aerts/) created a marimo notebook series for KU Leuven's Data Viz course, teaching Python-based SVG graphics and interactive techniques for custom data visualization.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
