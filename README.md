@@ -22,6 +22,32 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 ## Examples
 
 <details open>
+<summary><h3>May 2025</h3></summary>
+
+<table border="0">
+  <tr>
+    <td width="100%">
+      <a target="_blank" href="https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/">
+        <img src="assets/021-jan-aerts.gif" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="021-jan-aerts/">Jan Aerts</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
 <summary><h3>April 2025</h3></summary>
 
 <table border="0">
@@ -401,32 +427,6 @@ To edit the notebook source code, replace `run` with `edit` in the above command
   </tr>
 </table>
 
-</details>
-
-<details open>
-<summary><h3>May 2025</h3></summary>
-
-<table border="0">
-  <tr>
-    <td width="100%">
-      <a target="_blank" href="https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/">
-        <img src="assets/021-jan-aerts.gif" style="max-height: 150px; width: auto; display: block" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="021-jan-aerts/">Jan Aerts</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a target="_blank" href="https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/">
-        <img src="https://marimo.io/shield.svg"/>
-      </a>
-    </td>
-  </tr>
-</table>
 </details>
 
 1. [anywidget](001-anywidget/) is a Python library for making interoperable
