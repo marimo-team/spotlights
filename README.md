@@ -26,9 +26,14 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 <table border="0">
   <tr>
-    <td width="100%">
+    <td width="50%">
       <a target="_blank" href="https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/">
         <img src="assets/021-jan-aerts.gif" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="50%">
+      <a target="_blank" href="https://github.com/Hofer-Julian/marimo-pixi-starter-template">
+        <img src="assets/022-julian-hofer.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
   </tr>
@@ -36,10 +41,18 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     <td>
       <a href="021-jan-aerts/">Jan Aerts</a>
     </td>
+    <td>
+      <a href="022-julian-hofer/">Julian Hofer</a>
+    </td>
   </tr>
   <tr>
     <td>
       <a target="_blank" href="https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://github.com/Hofer-Julian/marimo-pixi-starter-template">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
@@ -454,6 +467,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 19. [Semyeong](019-smohspace/) created an interactive notebook that explores Venus cloud imagery from the Akatsuki mission, using xarray for analyzing atmospheric data and interactive components for examining image properties, demonstrating marimo's capabilities for scientific visualization in planetary science.
 20. [Yoann Mocquin](020-yoann-mocquin/) created an interactive notebook that demonstrates geometric MTF concepts, using ray optics and sliders to show how signal, blur, and diffraction shape image quality in real time.
 21. [Jan Aerts](021-jan-aerts/) created a marimo notebook series for KU Leuven's Data Viz course, teaching Python-based SVG graphics and interactive techniques for custom data visualization.
+22. [Julian Hofer](022-julian-hofer/) created a starter template that pairs marimo with pixi for instant environment setup, built-in testing, linting & CI/CD, enabling developers to dive straight into creating interactive notebooks.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
