@@ -33,7 +33,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     </td>
     <td width="50%">
       <a target="_blank" href="https://github.com/Hofer-Julian/marimo-pixi-starter-template">
-        <img src="assets/022-julian-hofer.png" style="max-height: 150px; width: auto; display: block" />
+        <img src="./assets/022-julian-hofer.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
   </tr>
