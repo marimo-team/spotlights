@@ -22,6 +22,32 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 ## Examples
 
 <details open>
+<summary><h3>June 2025</h3></summary>
+
+<table border="0">
+  <tr>
+    <td width="100%">
+      <a target="_blank" href="https://d2-widget.peter.gy">
+        <img src="assets/025-peter-gyarmati.gif" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="025-peter-gyarmati/">Peter Gyarmati</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://d2-widget.peter.gy">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
 <summary><h3>May 2025</h3></summary>
 
 <table border="0">
