@@ -26,19 +26,24 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 <table border="0">
   <tr>
-    <td width="33%">
+    <td width="25%">
       <a target="_blank" href="https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/">
         <img src="assets/021-jan-aerts.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td width="33%">
+    <td width="25%">
       <a target="_blank" href="https://github.com/Hofer-Julian/marimo-pixi-starter-template">
         <img src="./assets/022-julian-hofer.png" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td width="33%">
+    <td width="25%">
       <a target="_blank" href="https://runweave.ai">
         <img src="assets/023-weights-biases.gif" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="25%">
+      <a target="_blank" href="https://marimo.io/p/@hlondogard/notebook-transformer-js-py-object-detection-wasm?show-code=false">
+        <img src="assets/024-hampus-londogard.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
   </tr>
@@ -52,6 +57,9 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     <td>
       <a href="023-weights-biases/">Weights & Biases</a>
     </td>
+    <td>
+      <a href="024-hampus-londogard/">Hampus Londögård</a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -66,6 +74,11 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     </td>
     <td>
       <a target="_blank" href="https://runweave.ai">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://marimo.io/p/@hlondogard/notebook-transformer-js-py-object-detection-wasm?show-code=false">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
@@ -482,6 +495,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 21. [Jan Aerts](021-jan-aerts/) created a marimo notebook series for KU Leuven's Data Viz course, teaching Python-based SVG graphics and interactive techniques for custom data visualization.
 22. [Julian Hofer](022-julian-hofer/) created a starter template that pairs marimo with pixi for instant environment setup, built-in testing, linting & CI/CD, enabling developers to dive straight into creating interactive notebooks.
 23. [Weights & Biases](023-weights-biases/) created a Weave demo that embeds marimo's chat UI for customer support scenarios, with every interaction logged in W&B's Weave platform for tracking and evaluation.
+24. [Hampus Londögård](024-hampus-londogard/) created a marimo notebook that performs object detection entirely in-browser using Pyodide, transformers-js-py and onnxruntime for on-device DETR, eliminating the need for servers.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
