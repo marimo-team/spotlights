@@ -26,14 +26,19 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 <table border="0">
   <tr>
-    <td width="50%">
+    <td width="33%">
       <a target="_blank" href="https://d2-widget.peter.gy">
         <img src="assets/025-peter-gyarmati.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td width="50%">
+    <td width="33%">
       <a target="_blank" href="https://cheesebytes.com/cave/how-grid-choices-can-mislead-your-choropleth-maps/">
         <img src="assets/026-guiferviz.gif" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="33%">
+      <a target="_blank" href="https://dosull.github.io/mapweaver/app/">
+        <img src="assets/027-david-osullivan.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
   </tr>
@@ -44,6 +49,9 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     <td>
       <a href="026-guiferviz/">Guiferviz</a>
     </td>
+    <td>
+      <a href="027-david-osullivan/">David O'Sullivan</a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -53,6 +61,11 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     </td>
     <td>
       <a target="_blank" href="https://cheesebytes.com/cave/how-grid-choices-can-mislead-your-choropleth-maps/">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://dosull.github.io/mapweaver/app/">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
@@ -537,6 +550,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 24. [Hampus Londögård](024-hampus-londogard/) created a marimo notebook that performs object detection entirely in-browser using Pyodide, transformers-js-py and onnxruntime for on-device DETR, eliminating the need for servers.
 25. [Peter Gyarmati](025-peter-gyarmati/) created a marimo notebook with d2-widget that enables live editing, styling and preview of D2 diagrams, complete with themes, snippets and export options.
 26. [Guiferviz](026-guiferviz/) created an interactive blog post that demonstrates the Modifiable Areal Unit Problem, showing how grid type, cell size and orientation choices can make choropleth map patterns shift in real time.
+27. [David O'Sullivan](027-david-osullivan/) created MapWeaver, which loads GeoJSON, maps variables to tile or weave patterns, and allows tweaking of spacing, rotation & scale to create styled maps in-browser without JS!
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
