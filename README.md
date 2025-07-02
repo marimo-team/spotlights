@@ -26,19 +26,24 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 <table border="0">
   <tr>
-    <td width="33%">
+    <td width="25%">
       <a target="_blank" href="https://d2-widget.peter.gy">
         <img src="assets/025-peter-gyarmati.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td width="33%">
+    <td width="25%">
       <a target="_blank" href="https://cheesebytes.com/cave/how-grid-choices-can-mislead-your-choropleth-maps/">
         <img src="assets/026-guiferviz.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td width="33%">
+    <td width="25%">
       <a target="_blank" href="https://dosull.github.io/mapweaver/app/">
         <img src="assets/027-david-osullivan.gif" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="25%">
+      <a target="_blank" href="https://martidossi.github.io/data_viz_makeover/">
+        <img src="assets/028-martina-dossi.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
   </tr>
@@ -52,6 +57,9 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     <td>
       <a href="027-david-osullivan/">David O'Sullivan</a>
     </td>
+    <td>
+      <a href="028-martina-dossi/">Martina Dossi</a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -66,6 +74,11 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     </td>
     <td>
       <a target="_blank" href="https://dosull.github.io/mapweaver/app/">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://martidossi.github.io/data_viz_makeover/">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
@@ -551,6 +564,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 25. [Peter Gyarmati](025-peter-gyarmati/) created a marimo notebook with d2-widget that enables live editing, styling and preview of D2 diagrams, complete with themes, snippets and export options.
 26. [Guiferviz](026-guiferviz/) created an interactive blog post that demonstrates the Modifiable Areal Unit Problem, showing how grid type, cell size and orientation choices can make choropleth map patterns shift in real time.
 27. [David O'Sullivan](027-david-osullivan/) created MapWeaver, which loads GeoJSON, maps variables to tile or weave patterns, and allows tweaking of spacing, rotation & scale to create styled maps in-browser without JS!
+28. [Martina Dossi](028-martina-dossi/) created an interactive notebook that remakes the Eurostat bubble chart into dynamic bar, bubble, map, dot-plot and heatmap visuals exploring EU youth home-leaving trends with live sorting, filtering and animation.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
