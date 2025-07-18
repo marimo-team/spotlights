@@ -22,6 +22,32 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 ## Examples
 
 <details open>
+<summary><h3>July 2025</h3></summary>
+
+<table border="0">
+  <tr>
+    <td width="100%">
+      <a target="_blank" href="https://harry.vangberg.name/posts/automated-pcr-primer-design">
+        <img src="assets/029-harry-vangberg.gif" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="029-harry-vangberg/">Harry Vangberg</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://harry.vangberg.name/posts/automated-pcr-primer-design">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
 <summary><h3>June 2025</h3></summary>
 
 <table border="0">
@@ -565,6 +591,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 26. [Guiferviz](026-guiferviz/) created an interactive blog post that demonstrates the Modifiable Areal Unit Problem, showing how grid type, cell size and orientation choices can make choropleth map patterns shift in real time.
 27. [David O'Sullivan](027-david-osullivan/) created MapWeaver, which loads GeoJSON, maps variables to tile or weave patterns, and allows tweaking of spacing, rotation & scale to create styled maps in-browser without JS!
 28. [Martina Dossi](028-martina-dossi/) created an interactive notebook that remakes the Eurostat bubble chart into dynamic bar, bubble, map, dot-plot and heatmap visuals exploring EU youth home-leaving trends with live sorting, filtering and animation.
+29. [Harry Vangberg](029-harry-vangberg/) created a notebook for automated PCR primer design that fetches SNP flanking sequences from Ensembl, designs primers via Primer3 and runs local BLAST in under 5 seconds per tweak.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
