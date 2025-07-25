@@ -26,19 +26,24 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 
 <table border="0">
   <tr>
-    <td width="33%">
+    <td width="25%">
       <a target="_blank" href="https://harry.vangberg.name/posts/automated-pcr-primer-design">
         <img src="assets/029-harry-vangberg.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td width="33%">
+    <td width="25%">
       <a target="_blank" href="https://kj-9.github.io/marimo-rss-reader/">
         <img src="assets/030-koji-h.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
-    <td width="33%">
+    <td width="25%">
       <a target="_blank" href="https://seanmcleod70.github.io/FlightDynamicsCalcs/">
         <img src="assets/031-sean-mcleod.png" style="max-height: 150px; width: auto; display: block" />
+      </a>
+    </td>
+    <td width="25%">
+      <a target="_blank" href="https://giovannigiacometti.it/strava-marimo-analyzer/">
+        <img src="assets/032-giovanni-giacometti.gif" style="max-height: 150px; width: auto; display: block" />
       </a>
     </td>
   </tr>
@@ -52,6 +57,9 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     <td>
       <a href="031-sean-mcleod/">Sean McLeod</a>
     </td>
+    <td>
+      <a href="032-giovanni-giacometti/">Giovanni Giacometti</a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -66,6 +74,11 @@ To edit the notebook source code, replace `run` with `edit` in the above command
     </td>
     <td>
       <a target="_blank" href="https://seanmcleod70.github.io/FlightDynamicsCalcs/">
+        <img src="https://marimo.io/shield.svg"/>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://giovannigiacometti.it/strava-marimo-analyzer/">
         <img src="https://marimo.io/shield.svg"/>
       </a>
     </td>
@@ -620,6 +633,7 @@ To edit the notebook source code, replace `run` with `edit` in the above command
 29. [Harry Vangberg](029-harry-vangberg/) created a notebook for automated PCR primer design that fetches SNP flanking sequences from Ensembl, designs primers via Primer3 and runs local BLAST in under 5 seconds per tweak.
 30. [Koji H](030-koji-h/) created an interactive RSS feed reader that fetches and parses RSS XML into Pydantic data models, displays raw XML and entry tables, and provides date-grouped sidebar navigation with search.
 31. [Sean McLeod](031-sean-mcleod/) created notebooks on flight dynamics analyses covering roll rates, climb, trim envelopes, ISA, and more, illustrated with simulation data and plots.
+32. [Giovanni Giacometti](032-giovanni-giacometti/) created a Strava analyzer that runs client-side in the browser, featuring Polars-powered summaries, weekly heatmaps and dynamic charts with full privacy.
 
 >[!NOTE]
 > All of our spotlights are part of the [Community Spotlights](https://marimo.io/c/@spotlights/community-spotlights) collection, where we showcase outstanding projects and contributions from the marimo community. This collection demonstrates the diverse and innovative ways our community members are using marimo to create engaging, interactive content across various domains.
